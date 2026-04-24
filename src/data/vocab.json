@@ -1,0 +1,5258 @@
+[
+  {
+    "word": "book",
+    "phonetic": "bʊk",
+    "pos": "",
+    "translation": "書本",
+    "sentenceEng": "I am reading a book.",
+    "sentenceChi": "我正在讀一本書。",
+    "category": "basic"
+  },
+  {
+    "word": "car",
+    "phonetic": "kɑːr",
+    "pos": "",
+    "translation": "汽車",
+    "sentenceEng": "She drives a red car.",
+    "sentenceChi": "她開一輛紅色的汽車。",
+    "category": "basic"
+  },
+  {
+    "word": "teacher",
+    "phonetic": "ˈtiː.tʃər",
+    "pos": "",
+    "translation": "老師",
+    "sentenceEng": "The teacher explains the lesson.",
+    "sentenceChi": "那位老師正在解釋課程。",
+    "category": "basic"
+  },
+  {
+    "word": "student",
+    "phonetic": "ˈstjuː.dənt",
+    "pos": "",
+    "translation": "學生",
+    "sentenceEng": "The student is writing.",
+    "sentenceChi": "那位學生正在寫字。",
+    "category": "basic"
+  },
+  {
+    "word": "house",
+    "phonetic": "haʊs",
+    "pos": "",
+    "translation": "房子",
+    "sentenceEng": "They bought a new house.",
+    "sentenceChi": "他們買了一棟新房子。",
+    "category": "basic"
+  },
+  {
+    "word": "dog",
+    "phonetic": "dɔːɡ",
+    "pos": "",
+    "translation": "狗",
+    "sentenceEng": "The dog is barking.",
+    "sentenceChi": "那隻狗正在叫。",
+    "category": "basic"
+  },
+  {
+    "word": "cat",
+    "phonetic": "kæt",
+    "pos": "",
+    "translation": "貓",
+    "sentenceEng": "The cat is sleeping.",
+    "sentenceChi": "那隻貓正在睡覺。",
+    "category": "basic"
+  },
+  {
+    "word": "food",
+    "phonetic": "fuːd",
+    "pos": "",
+    "translation": "食物",
+    "sentenceEng": "The restaurant serves delicious food.",
+    "sentenceChi": "餐廳供應美味的食物。",
+    "category": "basic"
+  },
+  {
+    "word": "water",
+    "phonetic": "ˈwɔː.tər",
+    "pos": "",
+    "translation": "水",
+    "sentenceEng": "Please drink some water.",
+    "sentenceChi": "請喝一些水。",
+    "category": "basic"
+  },
+  {
+    "word": "city",
+    "phonetic": "ˈsɪt.i",
+    "pos": "",
+    "translation": "城市",
+    "sentenceEng": "Paris is a beautiful city.",
+    "sentenceChi": "巴黎是一座美麗的城市。",
+    "category": "basic"
+  },
+  {
+    "word": "friend",
+    "phonetic": "frɛnd",
+    "pos": "",
+    "translation": "朋友",
+    "sentenceEng": "He is my best friend.",
+    "sentenceChi": "他是我最好的朋友。",
+    "category": "basic"
+  },
+  {
+    "word": "family",
+    "phonetic": "ˈfæm.əl.i",
+    "pos": "",
+    "translation": "家庭",
+    "sentenceEng": "My family is very supportive.",
+    "sentenceChi": "我的家庭非常支持我。",
+    "category": "basic"
+  },
+  {
+    "word": "school",
+    "phonetic": "skuːl",
+    "pos": "",
+    "translation": "學校",
+    "sentenceEng": "The children go to school every day.",
+    "sentenceChi": "孩子們每天去學校。",
+    "category": "basic"
+  },
+  {
+    "word": "work",
+    "phonetic": "wɜːrk",
+    "pos": "",
+    "translation": "工作",
+    "sentenceEng": "He has a lot of work to do.",
+    "sentenceChi": "他有很多工作要做。",
+    "category": "basic"
+  },
+  {
+    "word": "money",
+    "phonetic": "ˈmʌn.i",
+    "pos": "",
+    "translation": "錢",
+    "sentenceEng": "She needs more money to travel.",
+    "sentenceChi": "她需要更多的錢去旅行。",
+    "category": "basic"
+  },
+  {
+    "word": "time",
+    "phonetic": "taɪm",
+    "pos": "",
+    "translation": "時間",
+    "sentenceEng": "Do you have enough time?",
+    "sentenceChi": "你有足夠的時間嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "child",
+    "phonetic": "tʃaɪld",
+    "pos": "",
+    "translation": "小孩",
+    "sentenceEng": "The child is playing outside.",
+    "sentenceChi": "那個小孩正在外面玩。",
+    "category": "basic"
+  },
+  {
+    "word": "day",
+    "phonetic": "deɪ",
+    "pos": "",
+    "translation": "日子",
+    "sentenceEng": "Today is a sunny day.",
+    "sentenceChi": "今天是晴朗的一天。",
+    "category": "basic"
+  },
+  {
+    "word": "night",
+    "phonetic": "naɪt",
+    "pos": "",
+    "translation": "夜晚",
+    "sentenceEng": "Good night, see you tomorrow.",
+    "sentenceChi": "晚安，明天見。",
+    "category": "basic"
+  },
+  {
+    "word": "job",
+    "phonetic": "dʒɑːb",
+    "pos": "",
+    "translation": "工作",
+    "sentenceEng": "He got a new job last week.",
+    "sentenceChi": "他上週找到一份新工作。",
+    "category": "basic"
+  },
+  {
+    "word": "language",
+    "phonetic": "ˈlæŋ.ɡwɪdʒ",
+    "pos": "",
+    "translation": "語言",
+    "sentenceEng": "English is an international language.",
+    "sentenceChi": "英文是一種國際語言。",
+    "category": "basic"
+  },
+  {
+    "word": "computer",
+    "phonetic": "kəmˈpjuː.tər",
+    "pos": "",
+    "translation": "電腦",
+    "sentenceEng": "I bought a new computer.",
+    "sentenceChi": "我買了一台新電腦。",
+    "category": "basic"
+  },
+  {
+    "word": "phone",
+    "phonetic": "foʊn",
+    "pos": "",
+    "translation": "電話",
+    "sentenceEng": "Please answer the phone.",
+    "sentenceChi": "請接電話。",
+    "category": "basic"
+  },
+  {
+    "word": "table",
+    "phonetic": "ˈteɪ.bəl",
+    "pos": "",
+    "translation": "桌子",
+    "sentenceEng": "The table is made of wood.",
+    "sentenceChi": "這張桌子是木頭做的。",
+    "category": "basic"
+  },
+  {
+    "word": "chair",
+    "phonetic": "tʃer",
+    "pos": "",
+    "translation": "椅子",
+    "sentenceEng": "Sit on the chair.",
+    "sentenceChi": "坐在這張椅子上。",
+    "category": "basic"
+  },
+  {
+    "word": "country",
+    "phonetic": "ˈkʌn.tri",
+    "pos": "",
+    "translation": "國家",
+    "sentenceEng": "Japan is a beautiful country.",
+    "sentenceChi": "日本是一個美麗的國家。",
+    "category": "basic"
+  },
+  {
+    "word": "music",
+    "phonetic": "ˈmjuː.zɪk",
+    "pos": "",
+    "translation": "音樂",
+    "sentenceEng": "She loves listening to music.",
+    "sentenceChi": "她喜歡聽音樂。",
+    "category": "basic"
+  },
+  {
+    "word": "movie",
+    "phonetic": "ˈmuː.vi",
+    "pos": "",
+    "translation": "電影",
+    "sentenceEng": "We watched a good movie yesterday.",
+    "sentenceChi": "我們昨天看了一部好電影。",
+    "category": "basic"
+  },
+  {
+    "word": "story",
+    "phonetic": "ˈstɔːr.i",
+    "pos": "",
+    "translation": "故事",
+    "sentenceEng": "He told me a funny story.",
+    "sentenceChi": "他告訴我一個有趣的故事。",
+    "category": "basic"
+  },
+  {
+    "word": "bookstore",
+    "phonetic": "ˈbʊk.stɔːr",
+    "pos": "",
+    "translation": "書店",
+    "sentenceEng": "The bookstore is near the station.",
+    "sentenceChi": "那間書店在車站附近。",
+    "category": "basic"
+  },
+  {
+    "word": "bag",
+    "phonetic": "bæɡ",
+    "pos": "",
+    "translation": "包包",
+    "sentenceEng": "She carries a small bag.",
+    "sentenceChi": "她帶著一個小包包。",
+    "category": "basic"
+  },
+  {
+    "word": "train",
+    "phonetic": "treɪn",
+    "pos": "",
+    "translation": "火車",
+    "sentenceEng": "The train is late today.",
+    "sentenceChi": "今天火車晚點了。",
+    "category": "basic"
+  },
+  {
+    "word": "bus",
+    "phonetic": "bʌs",
+    "pos": "",
+    "translation": "公車",
+    "sentenceEng": "I go to work by bus.",
+    "sentenceChi": "我搭公車上班。",
+    "category": "basic"
+  },
+  {
+    "word": "market",
+    "phonetic": "ˈmɑːr.kɪt",
+    "pos": "",
+    "translation": "市場",
+    "sentenceEng": "The market is crowded.",
+    "sentenceChi": "那個市場很擁擠。",
+    "category": "basic"
+  },
+  {
+    "word": "shop",
+    "phonetic": "ʃɑːp",
+    "pos": "",
+    "translation": "商店",
+    "sentenceEng": "She opened a new shop.",
+    "sentenceChi": "她開了一家新商店。",
+    "category": "basic"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "ˈhɑː.spɪ.təl",
+    "pos": "",
+    "translation": "醫院",
+    "sentenceEng": "He works in a hospital.",
+    "sentenceChi": "他在醫院工作。",
+    "category": "basic"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "ˈdɑːk.tər",
+    "pos": "",
+    "translation": "醫生",
+    "sentenceEng": "The doctor helps sick people.",
+    "sentenceChi": "醫生幫助病人。",
+    "category": "basic"
+  },
+  {
+    "word": "nurse",
+    "phonetic": "nɜːrs",
+    "pos": "",
+    "translation": "護士",
+    "sentenceEng": "The nurse is very kind.",
+    "sentenceChi": "那位護士非常親切。",
+    "category": "basic"
+  },
+  {
+    "word": "bed",
+    "phonetic": "bed",
+    "pos": "",
+    "translation": "床",
+    "sentenceEng": "I am lying on the bed.",
+    "sentenceChi": "我正躺在床上。",
+    "category": "basic"
+  },
+  {
+    "word": "room",
+    "phonetic": "ruːm",
+    "pos": "",
+    "translation": "房間",
+    "sentenceEng": "This is my room.",
+    "sentenceChi": "這是我的房間。",
+    "category": "basic"
+  },
+  {
+    "word": "door",
+    "phonetic": "dɔːr",
+    "pos": "",
+    "translation": "門",
+    "sentenceEng": "Please close the door.",
+    "sentenceChi": "請關上門。",
+    "category": "basic"
+  },
+  {
+    "word": "window",
+    "phonetic": "ˈwɪn.doʊ",
+    "pos": "",
+    "translation": "窗戶",
+    "sentenceEng": "Open the window.",
+    "sentenceChi": "打開窗戶。",
+    "category": "basic"
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "ˈkɪtʃ.ən",
+    "pos": "",
+    "translation": "廚房",
+    "sentenceEng": "The kitchen is clean.",
+    "sentenceChi": "廚房很乾淨。",
+    "category": "basic"
+  },
+  {
+    "word": "garden",
+    "phonetic": "ˈɡɑːr.dən",
+    "pos": "",
+    "translation": "花園",
+    "sentenceEng": "The garden is full of flowers.",
+    "sentenceChi": "花園裡滿是花。",
+    "category": "basic"
+  },
+  {
+    "word": "street",
+    "phonetic": "striːt",
+    "pos": "",
+    "translation": "街道",
+    "sentenceEng": "They live on this street.",
+    "sentenceChi": "他們住在這條街道上。",
+    "category": "basic"
+  },
+  {
+    "word": "road",
+    "phonetic": "roʊd",
+    "pos": "",
+    "translation": "道路",
+    "sentenceEng": "The road is long.",
+    "sentenceChi": "這條道路很長。",
+    "category": "basic"
+  },
+  {
+    "word": "airport",
+    "phonetic": "ˈer.pɔːrt",
+    "pos": "",
+    "translation": "機場",
+    "sentenceEng": "The airport is far away.",
+    "sentenceChi": "機場很遠。",
+    "category": "basic"
+  },
+  {
+    "word": "station",
+    "phonetic": "ˈsteɪ.ʃən",
+    "pos": "",
+    "translation": "車站",
+    "sentenceEng": "I am waiting at the station.",
+    "sentenceChi": "我在車站等。",
+    "category": "basic"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "ˈres.trɑːnt",
+    "pos": "",
+    "translation": "餐廳",
+    "sentenceEng": "We had dinner in a restaurant.",
+    "sentenceChi": "我們在餐廳吃晚餐。",
+    "category": "basic"
+  },
+  {
+    "word": "eat",
+    "phonetic": "iːt",
+    "pos": "",
+    "translation": "吃",
+    "sentenceEng": "I like to eat apples.",
+    "sentenceChi": "我喜歡吃蘋果。",
+    "category": "basic"
+  },
+  {
+    "word": "drink",
+    "phonetic": "drɪŋk",
+    "pos": "",
+    "translation": "喝",
+    "sentenceEng": "Please drink some water.",
+    "sentenceChi": "請喝些水。",
+    "category": "basic"
+  },
+  {
+    "word": "run",
+    "phonetic": "rʌn",
+    "pos": "",
+    "translation": "跑步",
+    "sentenceEng": "They run every morning.",
+    "sentenceChi": "他們每天早上都跑步。",
+    "category": "basic"
+  },
+  {
+    "word": "walk",
+    "phonetic": "wɑːk",
+    "pos": "",
+    "translation": "走路",
+    "sentenceEng": "We walk to school.",
+    "sentenceChi": "我們走路去學校。",
+    "category": "basic"
+  },
+  {
+    "word": "write",
+    "phonetic": "raɪt",
+    "pos": "",
+    "translation": "寫",
+    "sentenceEng": "Please write your name.",
+    "sentenceChi": "請寫你的名字。",
+    "category": "basic"
+  },
+  {
+    "word": "read",
+    "phonetic": "riːd",
+    "pos": "",
+    "translation": "讀",
+    "sentenceEng": "I love to read books.",
+    "sentenceChi": "我喜歡讀書。",
+    "category": "basic"
+  },
+  {
+    "word": "speak",
+    "phonetic": "spiːk",
+    "pos": "",
+    "translation": "說話",
+    "sentenceEng": "He can speak English well.",
+    "sentenceChi": "他會說英文。",
+    "category": "basic"
+  },
+  {
+    "word": "listen",
+    "phonetic": "ˈlɪs.ən",
+    "pos": "",
+    "translation": "聽",
+    "sentenceEng": "Please listen carefully.",
+    "sentenceChi": "請仔細聽。",
+    "category": "basic"
+  },
+  {
+    "word": "see",
+    "phonetic": "siː",
+    "pos": "",
+    "translation": "看見",
+    "sentenceEng": "I can see the stars.",
+    "sentenceChi": "我能看見星星。",
+    "category": "basic"
+  },
+  {
+    "word": "hear",
+    "phonetic": "hɪr",
+    "pos": "",
+    "translation": "聽到",
+    "sentenceEng": "Did you hear the noise?",
+    "sentenceChi": "你有聽到噪音嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "learn",
+    "phonetic": "lɜːrn",
+    "pos": "",
+    "translation": "學習",
+    "sentenceEng": "Children learn quickly.",
+    "sentenceChi": "孩子們學得很快。",
+    "category": "basic"
+  },
+  {
+    "word": "teach",
+    "phonetic": "tiːtʃ",
+    "pos": "",
+    "translation": "教",
+    "sentenceEng": "She teaches math.",
+    "sentenceChi": "她教數學。",
+    "category": "basic"
+  },
+  {
+    "word": "play",
+    "phonetic": "pleɪ",
+    "pos": "",
+    "translation": "玩",
+    "sentenceEng": "Kids love to play games.",
+    "sentenceChi": "小孩喜歡玩遊戲。",
+    "category": "basic"
+  },
+  {
+    "word": "sing",
+    "phonetic": "sɪŋ",
+    "pos": "",
+    "translation": "唱歌",
+    "sentenceEng": "She likes to sing.",
+    "sentenceChi": "她喜歡唱歌。",
+    "category": "basic"
+  },
+  {
+    "word": "dance",
+    "phonetic": "dæns",
+    "pos": "",
+    "translation": "跳舞",
+    "sentenceEng": "They dance every Friday.",
+    "sentenceChi": "他們每週五都跳舞。",
+    "category": "basic"
+  },
+  {
+    "word": "open",
+    "phonetic": "ˈoʊ.pən",
+    "pos": "",
+    "translation": "打開",
+    "sentenceEng": "Please open the window.",
+    "sentenceChi": "請打開窗戶。",
+    "category": "basic"
+  },
+  {
+    "word": "close",
+    "phonetic": "kloʊz",
+    "pos": "",
+    "translation": "關閉",
+    "sentenceEng": "Don’t forget to close the door.",
+    "sentenceChi": "別忘了關門。",
+    "category": "basic"
+  },
+  {
+    "word": "buy",
+    "phonetic": "baɪ",
+    "pos": "",
+    "translation": "買",
+    "sentenceEng": "I want to buy a new phone.",
+    "sentenceChi": "我想買一支新手機。",
+    "category": "basic"
+  },
+  {
+    "word": "sell",
+    "phonetic": "sel",
+    "pos": "",
+    "translation": "賣",
+    "sentenceEng": "They sell fruit at the market.",
+    "sentenceChi": "他們在市場賣水果。",
+    "category": "basic"
+  },
+  {
+    "word": "cook",
+    "phonetic": "kʊk",
+    "pos": "",
+    "translation": "烹飪",
+    "sentenceEng": "She likes to cook Italian food.",
+    "sentenceChi": "她喜歡煮義大利菜。",
+    "category": "basic"
+  },
+  {
+    "word": "clean",
+    "phonetic": "kliːn",
+    "pos": "",
+    "translation": "打掃",
+    "sentenceEng": "He cleans the room every day.",
+    "sentenceChi": "他每天打掃房間。",
+    "category": "basic"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "sliːp",
+    "pos": "",
+    "translation": "睡覺",
+    "sentenceEng": "I usually sleep at 11 p.m.",
+    "sentenceChi": "我通常晚上11點睡覺。",
+    "category": "basic"
+  },
+  {
+    "word": "wake",
+    "phonetic": "weɪk",
+    "pos": "",
+    "translation": "醒來",
+    "sentenceEng": "I wake up early in the morning.",
+    "sentenceChi": "我早上很早醒來。",
+    "category": "basic"
+  },
+  {
+    "word": "drive",
+    "phonetic": "draɪv",
+    "pos": "",
+    "translation": "開車",
+    "sentenceEng": "He can drive a car.",
+    "sentenceChi": "他會開車。",
+    "category": "basic"
+  },
+  {
+    "word": "ride",
+    "phonetic": "raɪd",
+    "pos": "",
+    "translation": "騎",
+    "sentenceEng": "I can ride a bike.",
+    "sentenceChi": "我會騎腳踏車。",
+    "category": "basic"
+  },
+  {
+    "word": "swim",
+    "phonetic": "swɪm",
+    "pos": "",
+    "translation": "游泳",
+    "sentenceEng": "We swim in the pool.",
+    "sentenceChi": "我們在泳池游泳。",
+    "category": "basic"
+  },
+  {
+    "word": "fly",
+    "phonetic": "flaɪ",
+    "pos": "",
+    "translation": "飛",
+    "sentenceEng": "Birds can fly.",
+    "sentenceChi": "鳥會飛。",
+    "category": "basic"
+  },
+  {
+    "word": "smile",
+    "phonetic": "smaɪl",
+    "pos": "",
+    "translation": "微笑",
+    "sentenceEng": "She always smiles at me.",
+    "sentenceChi": "她總是對我微笑。",
+    "category": "basic"
+  },
+  {
+    "word": "cry",
+    "phonetic": "kraɪ",
+    "pos": "",
+    "translation": "哭",
+    "sentenceEng": "The baby is crying.",
+    "sentenceChi": "嬰兒在哭。",
+    "category": "basic"
+  },
+  {
+    "word": "laugh",
+    "phonetic": "læf",
+    "pos": "",
+    "translation": "笑",
+    "sentenceEng": "They laugh at the joke.",
+    "sentenceChi": "他們因笑話而笑。",
+    "category": "basic"
+  },
+  {
+    "word": "love",
+    "phonetic": "lʌv",
+    "pos": "",
+    "translation": "愛",
+    "sentenceEng": "I love my family.",
+    "sentenceChi": "我愛我的家人。",
+    "category": "basic"
+  },
+  {
+    "word": "hate",
+    "phonetic": "heɪt",
+    "pos": "",
+    "translation": "討厭",
+    "sentenceEng": "She hates waiting.",
+    "sentenceChi": "她討厭等待。",
+    "category": "basic"
+  },
+  {
+    "word": "think",
+    "phonetic": "θɪŋk",
+    "pos": "",
+    "translation": "想",
+    "sentenceEng": "Let me think about it.",
+    "sentenceChi": "讓我想一想。",
+    "category": "basic"
+  },
+  {
+    "word": "know",
+    "phonetic": "noʊ",
+    "pos": "",
+    "translation": "知道",
+    "sentenceEng": "Do you know the answer?",
+    "sentenceChi": "你知道答案嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "understand",
+    "phonetic": "ˌʌn.dɚˈstænd",
+    "pos": "",
+    "translation": "理解",
+    "sentenceEng": "I don’t understand this.",
+    "sentenceChi": "我不理解這個。",
+    "category": "basic"
+  },
+  {
+    "word": "believe",
+    "phonetic": "bəˈliːv",
+    "pos": "",
+    "translation": "相信",
+    "sentenceEng": "I believe in you.",
+    "sentenceChi": "我相信你。",
+    "category": "basic"
+  },
+  {
+    "word": "choose",
+    "phonetic": "tʃuːz",
+    "pos": "",
+    "translation": "選擇",
+    "sentenceEng": "Please choose a color.",
+    "sentenceChi": "請選擇一個顏色。",
+    "category": "basic"
+  },
+  {
+    "word": "wait",
+    "phonetic": "weɪt",
+    "pos": "",
+    "translation": "等待",
+    "sentenceEng": "We waited for the bus.",
+    "sentenceChi": "我們等公車。",
+    "category": "basic"
+  },
+  {
+    "word": "help",
+    "phonetic": "help",
+    "pos": "",
+    "translation": "幫助",
+    "sentenceEng": "Can you help me?",
+    "sentenceChi": "你能幫助我嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "ɪnˈdʒɔɪ",
+    "pos": "",
+    "translation": "享受",
+    "sentenceEng": "They enjoy the party.",
+    "sentenceChi": "他們享受聚會。",
+    "category": "basic"
+  },
+  {
+    "word": "start",
+    "phonetic": "stɑːrt",
+    "pos": "",
+    "translation": "開始",
+    "sentenceEng": "Let’s start now.",
+    "sentenceChi": "我們現在開始吧。",
+    "category": "basic"
+  },
+  {
+    "word": "finish",
+    "phonetic": "ˈfɪn.ɪʃ",
+    "pos": "",
+    "translation": "結束",
+    "sentenceEng": "He finished the work.",
+    "sentenceChi": "他完成了工作。",
+    "category": "basic"
+  },
+  {
+    "word": "give",
+    "phonetic": "ɡɪv",
+    "pos": "",
+    "translation": "給",
+    "sentenceEng": "Please give me your book.",
+    "sentenceChi": "請給我你的書。",
+    "category": "basic"
+  },
+  {
+    "word": "take",
+    "phonetic": "teɪk",
+    "pos": "",
+    "translation": "拿取",
+    "sentenceEng": "I will take a taxi.",
+    "sentenceChi": "我要搭計程車。",
+    "category": "basic"
+  },
+  {
+    "word": "bring",
+    "phonetic": "brɪŋ",
+    "pos": "",
+    "translation": "帶來",
+    "sentenceEng": "Can you bring some water?",
+    "sentenceChi": "你能帶點水來嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "send",
+    "phonetic": "send",
+    "pos": "",
+    "translation": "寄送",
+    "sentenceEng": "She sent me a letter.",
+    "sentenceChi": "她寄給我一封信。",
+    "category": "basic"
+  },
+  {
+    "word": "call",
+    "phonetic": "kɔːl",
+    "pos": "",
+    "translation": "打電話",
+    "sentenceEng": "I will call you tonight.",
+    "sentenceChi": "今晚我會打電話給你。",
+    "category": "basic"
+  },
+  {
+    "word": "answer",
+    "phonetic": "ˈæn.sər",
+    "pos": "",
+    "translation": "回答",
+    "sentenceEng": "Please answer my question.",
+    "sentenceChi": "請回答我的問題。",
+    "category": "basic"
+  },
+  {
+    "word": "ask",
+    "phonetic": "æsk",
+    "pos": "",
+    "translation": "問",
+    "sentenceEng": "May I ask you something?",
+    "sentenceChi": "我可以問你點事嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "happy",
+    "phonetic": "ˈhæp.i",
+    "pos": "",
+    "translation": "快樂的",
+    "sentenceEng": "She is very happy today.",
+    "sentenceChi": "她今天很快樂。",
+    "category": "basic"
+  },
+  {
+    "word": "sad",
+    "phonetic": "sæd",
+    "pos": "",
+    "translation": "傷心的",
+    "sentenceEng": "He looks sad.",
+    "sentenceChi": "他看起來很傷心。",
+    "category": "basic"
+  },
+  {
+    "word": "big",
+    "phonetic": "bɪɡ",
+    "pos": "",
+    "translation": "大的",
+    "sentenceEng": "This is a big house.",
+    "sentenceChi": "這是一棟大的房子。",
+    "category": "basic"
+  },
+  {
+    "word": "small",
+    "phonetic": "smɔːl",
+    "pos": "",
+    "translation": "小的",
+    "sentenceEng": "I have a small dog.",
+    "sentenceChi": "我有一隻小狗。",
+    "category": "basic"
+  },
+  {
+    "word": "cold",
+    "phonetic": "koʊld",
+    "pos": "",
+    "translation": "冷的",
+    "sentenceEng": "It is cold outside.",
+    "sentenceChi": "外面很冷。",
+    "category": "basic"
+  },
+  {
+    "word": "hot",
+    "phonetic": "hɑːt",
+    "pos": "",
+    "translation": "熱的",
+    "sentenceEng": "The soup is hot.",
+    "sentenceChi": "湯很燙。",
+    "category": "basic"
+  },
+  {
+    "word": "strong",
+    "phonetic": "strɔːŋ",
+    "pos": "",
+    "translation": "強壯的",
+    "sentenceEng": "He is very strong.",
+    "sentenceChi": "他很強壯。",
+    "category": "basic"
+  },
+  {
+    "word": "weak",
+    "phonetic": "wiːk",
+    "pos": "",
+    "translation": "虛弱的",
+    "sentenceEng": "She felt weak after the flu.",
+    "sentenceChi": "她得流感後感到很虛弱。",
+    "category": "basic"
+  },
+  {
+    "word": "young",
+    "phonetic": "jʌŋ",
+    "pos": "",
+    "translation": "年輕的",
+    "sentenceEng": "They are young students.",
+    "sentenceChi": "他們是年輕的學生。",
+    "category": "basic"
+  },
+  {
+    "word": "old",
+    "phonetic": "oʊld",
+    "pos": "",
+    "translation": "老的",
+    "sentenceEng": "My grandfather is very old.",
+    "sentenceChi": "我的祖父很老。",
+    "category": "basic"
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "ˈbjuː.tɪ.fəl",
+    "pos": "",
+    "translation": "美麗的",
+    "sentenceEng": "The flowers are beautiful.",
+    "sentenceChi": "這些花很美麗。",
+    "category": "basic"
+  },
+  {
+    "word": "ugly",
+    "phonetic": "ˈʌɡ.li",
+    "pos": "",
+    "translation": "醜陋的",
+    "sentenceEng": "The monster looks ugly.",
+    "sentenceChi": "那怪物看起來很醜陋。",
+    "category": "basic"
+  },
+  {
+    "word": "rich",
+    "phonetic": "rɪtʃ",
+    "pos": "",
+    "translation": "富有的",
+    "sentenceEng": "He is a rich businessman.",
+    "sentenceChi": "他是一位富有的商人。",
+    "category": "basic"
+  },
+  {
+    "word": "poor",
+    "phonetic": "pʊr",
+    "pos": "",
+    "translation": "貧窮的",
+    "sentenceEng": "They are from a poor village.",
+    "sentenceChi": "他們來自一個貧窮的村莊。",
+    "category": "basic"
+  },
+  {
+    "word": "dirty",
+    "phonetic": "ˈdɜːr.t̬i",
+    "pos": "",
+    "translation": "髒的",
+    "sentenceEng": "The clothes are dirty.",
+    "sentenceChi": "衣服很髒。",
+    "category": "basic"
+  },
+  {
+    "word": "kind",
+    "phonetic": "kaɪnd",
+    "pos": "",
+    "translation": "善良的",
+    "sentenceEng": "She is a kind person.",
+    "sentenceChi": "她是個善良的人。",
+    "category": "basic"
+  },
+  {
+    "word": "angry",
+    "phonetic": "ˈæŋ.ɡri",
+    "pos": "",
+    "translation": "生氣的",
+    "sentenceEng": "He was very angry yesterday.",
+    "sentenceChi": "他昨天很生氣。",
+    "category": "basic"
+  },
+  {
+    "word": "hungry",
+    "phonetic": "ˈhʌŋ.ɡri",
+    "pos": "",
+    "translation": "飢餓的",
+    "sentenceEng": "I am hungry now.",
+    "sentenceChi": "我現在很餓。",
+    "category": "basic"
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "ˈθɜːr.sti",
+    "pos": "",
+    "translation": "口渴的",
+    "sentenceEng": "She is thirsty after running.",
+    "sentenceChi": "她跑步後很渴。",
+    "category": "basic"
+  },
+  {
+    "word": "tired",
+    "phonetic": "ˈtaɪrd",
+    "pos": "",
+    "translation": "疲倦的",
+    "sentenceEng": "He feels tired after work.",
+    "sentenceChi": "他下班後很累。",
+    "category": "basic"
+  },
+  {
+    "word": "healthy",
+    "phonetic": "ˈhel.θi",
+    "pos": "",
+    "translation": "健康的",
+    "sentenceEng": "Vegetables are healthy food.",
+    "sentenceChi": "蔬菜是健康的食物。",
+    "category": "basic"
+  },
+  {
+    "word": "sick",
+    "phonetic": "sɪk",
+    "pos": "",
+    "translation": "生病的",
+    "sentenceEng": "He is sick today.",
+    "sentenceChi": "他今天生病了。",
+    "category": "basic"
+  },
+  {
+    "word": "important",
+    "phonetic": "ɪmˈpɔːr.tənt",
+    "pos": "",
+    "translation": "重要的",
+    "sentenceEng": "This is an important meeting.",
+    "sentenceChi": "這是一個重要的會議。",
+    "category": "basic"
+  },
+  {
+    "word": "useful",
+    "phonetic": "ˈjuːs.fəl",
+    "pos": "",
+    "translation": "有用的",
+    "sentenceEng": "This tool is very useful.",
+    "sentenceChi": "這個工具很有用。",
+    "category": "basic"
+  },
+  {
+    "word": "useless",
+    "phonetic": "ˈjuːs.ləs",
+    "pos": "",
+    "translation": "無用的",
+    "sentenceEng": "This key is useless.",
+    "sentenceChi": "這把鑰匙沒用。",
+    "category": "basic"
+  },
+  {
+    "word": "famous",
+    "phonetic": "ˈfeɪ.məs",
+    "pos": "",
+    "translation": "著名的",
+    "sentenceEng": "He is a famous singer.",
+    "sentenceChi": "他是一位著名的歌手。",
+    "category": "basic"
+  },
+  {
+    "word": "popular",
+    "phonetic": "ˈpɑː.pjə.lɚ",
+    "pos": "",
+    "translation": "受歡迎的",
+    "sentenceEng": "This game is very popular.",
+    "sentenceChi": "這遊戲很受歡迎。",
+    "category": "basic"
+  },
+  {
+    "word": "expensive",
+    "phonetic": "ɪkˈspen.sɪv",
+    "pos": "",
+    "translation": "昂貴的",
+    "sentenceEng": "That car is expensive.",
+    "sentenceChi": "那台車很貴。",
+    "category": "basic"
+  },
+  {
+    "word": "cheap",
+    "phonetic": "tʃiːp",
+    "pos": "",
+    "translation": "便宜的",
+    "sentenceEng": "This book is very cheap.",
+    "sentenceChi": "這本書很便宜。",
+    "category": "basic"
+  },
+  {
+    "word": "fast",
+    "phonetic": "fæst",
+    "pos": "",
+    "translation": "快的",
+    "sentenceEng": "He is a fast runner.",
+    "sentenceChi": "他是個跑得快的人。",
+    "category": "basic"
+  },
+  {
+    "word": "slow",
+    "phonetic": "sloʊ",
+    "pos": "",
+    "translation": "慢的",
+    "sentenceEng": "The turtle is slow.",
+    "sentenceChi": "烏龜很慢。",
+    "category": "basic"
+  },
+  {
+    "word": "hard",
+    "phonetic": "hɑːrd",
+    "pos": "",
+    "translation": "困難的",
+    "sentenceEng": "The test was very hard.",
+    "sentenceChi": "考試很難。",
+    "category": "basic"
+  },
+  {
+    "word": "easy",
+    "phonetic": "ˈiː.zi",
+    "pos": "",
+    "translation": "簡單的",
+    "sentenceEng": "This question is easy.",
+    "sentenceChi": "這題很簡單。",
+    "category": "basic"
+  },
+  {
+    "word": "short",
+    "phonetic": "ʃɔːrt",
+    "pos": "",
+    "translation": "短的",
+    "sentenceEng": "He wrote a short story.",
+    "sentenceChi": "他寫了一個短故事。",
+    "category": "basic"
+  },
+  {
+    "word": "long",
+    "phonetic": "lɔːŋ",
+    "pos": "",
+    "translation": "長的",
+    "sentenceEng": "It is a long road.",
+    "sentenceChi": "這是一條長路。",
+    "category": "basic"
+  },
+  {
+    "word": "high",
+    "phonetic": "haɪ",
+    "pos": "",
+    "translation": "高的",
+    "sentenceEng": "The mountain is very high.",
+    "sentenceChi": "那座山很高。",
+    "category": "basic"
+  },
+  {
+    "word": "low",
+    "phonetic": "loʊ",
+    "pos": "",
+    "translation": "低的",
+    "sentenceEng": "The price is very low.",
+    "sentenceChi": "價格很低。",
+    "category": "basic"
+  },
+  {
+    "word": "early",
+    "phonetic": "ˈɜːr.li",
+    "pos": "",
+    "translation": "早的",
+    "sentenceEng": "She arrived early.",
+    "sentenceChi": "她到得很早。",
+    "category": "basic"
+  },
+  {
+    "word": "late",
+    "phonetic": "leɪt",
+    "pos": "",
+    "translation": "晚的",
+    "sentenceEng": "He was late for school.",
+    "sentenceChi": "他上學遲到了。",
+    "category": "basic"
+  },
+  {
+    "word": "new",
+    "phonetic": "nuː",
+    "pos": "",
+    "translation": "新的",
+    "sentenceEng": "I bought a new phone.",
+    "sentenceChi": "我買了一支新手機。",
+    "category": "basic"
+  },
+  {
+    "word": "hot-tempered",
+    "phonetic": "ˌhɑːtˈtem.pɚd",
+    "pos": "",
+    "translation": "脾氣急的",
+    "sentenceEng": "He is a hot-tempered man.",
+    "sentenceChi": "他是個脾氣急的人。",
+    "category": "basic"
+  },
+  {
+    "word": "polite",
+    "phonetic": "pəˈlaɪt",
+    "pos": "",
+    "translation": "有禮貌的",
+    "sentenceEng": "She is always polite.",
+    "sentenceChi": "她總是很有禮貌。",
+    "category": "basic"
+  },
+  {
+    "word": "rude",
+    "phonetic": "ruːd",
+    "pos": "",
+    "translation": "粗魯的",
+    "sentenceEng": "Don’t be rude.",
+    "sentenceChi": "不要粗魯。",
+    "category": "basic"
+  },
+  {
+    "word": "honest",
+    "phonetic": "ˈɑː.nɪst",
+    "pos": "",
+    "translation": "誠實的",
+    "sentenceEng": "He is an honest person.",
+    "sentenceChi": "他是個誠實的人。",
+    "category": "basic"
+  },
+  {
+    "word": "brave",
+    "phonetic": "breɪv",
+    "pos": "",
+    "translation": "勇敢的",
+    "sentenceEng": "The soldier is brave.",
+    "sentenceChi": "那士兵很勇敢。",
+    "category": "basic"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "əˈfreɪd",
+    "pos": "",
+    "translation": "害怕的",
+    "sentenceEng": "She is afraid of the dark.",
+    "sentenceChi": "她害怕黑暗。",
+    "category": "basic"
+  },
+  {
+    "word": "happy-go-lucky",
+    "phonetic": "ˌhæp.i.ɡoʊˈlʌk.i",
+    "pos": "",
+    "translation": "樂天的",
+    "sentenceEng": "He is a happy-go-lucky guy.",
+    "sentenceChi": "他是個樂天的人。",
+    "category": "basic"
+  },
+  {
+    "word": "quickly",
+    "phonetic": "ˈkwɪk.li",
+    "pos": "",
+    "translation": "快速地",
+    "sentenceEng": "He runs quickly.",
+    "sentenceChi": "他跑得很快。",
+    "category": "basic"
+  },
+  {
+    "word": "slowly",
+    "phonetic": "ˈsləʊ.li",
+    "pos": "",
+    "translation": "緩慢地",
+    "sentenceEng": "Please speak slowly.",
+    "sentenceChi": "請慢慢說。",
+    "category": "basic"
+  },
+  {
+    "word": "very",
+    "phonetic": "ˈver.i",
+    "pos": "",
+    "translation": "非常",
+    "sentenceEng": "She is very kind.",
+    "sentenceChi": "她非常善良。",
+    "category": "basic"
+  },
+  {
+    "word": "really",
+    "phonetic": "ˈrɪə.li",
+    "pos": "",
+    "translation": "真的",
+    "sentenceEng": "I am really happy.",
+    "sentenceChi": "我真的很快樂。",
+    "category": "basic"
+  },
+  {
+    "word": "always",
+    "phonetic": "ˈɔːl.weɪz",
+    "pos": "",
+    "translation": "總是",
+    "sentenceEng": "He always gets up early.",
+    "sentenceChi": "他總是很早起床。",
+    "category": "basic"
+  },
+  {
+    "word": "never",
+    "phonetic": "ˈnev.ər",
+    "pos": "",
+    "translation": "從不",
+    "sentenceEng": "She never eats meat.",
+    "sentenceChi": "她從不吃肉。",
+    "category": "basic"
+  },
+  {
+    "word": "often",
+    "phonetic": "ˈɑː.fən",
+    "pos": "",
+    "translation": "經常",
+    "sentenceEng": "We often go to the park.",
+    "sentenceChi": "我們經常去公園。",
+    "category": "basic"
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "ˈsʌm.taɪmz",
+    "pos": "",
+    "translation": "有時候",
+    "sentenceEng": "He sometimes forgets homework.",
+    "sentenceChi": "他有時候忘記作業。",
+    "category": "basic"
+  },
+  {
+    "word": "usually",
+    "phonetic": "ˈjuː.ʒu.ə.li",
+    "pos": "",
+    "translation": "通常",
+    "sentenceEng": "I usually drink coffee.",
+    "sentenceChi": "我通常喝咖啡。",
+    "category": "basic"
+  },
+  {
+    "word": "now",
+    "phonetic": "naʊ",
+    "pos": "",
+    "translation": "現在",
+    "sentenceEng": "Do it now.",
+    "sentenceChi": "現在就做吧。",
+    "category": "basic"
+  },
+  {
+    "word": "then",
+    "phonetic": "ðen",
+    "pos": "",
+    "translation": "然後",
+    "sentenceEng": "First eat, then sleep.",
+    "sentenceChi": "先吃飯，然後睡覺。",
+    "category": "basic"
+  },
+  {
+    "word": "soon",
+    "phonetic": "suːn",
+    "pos": "",
+    "translation": "很快",
+    "sentenceEng": "I will see you soon.",
+    "sentenceChi": "我很快就會見你。",
+    "category": "basic"
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "ˈjes.tɚ.deɪ",
+    "pos": "",
+    "translation": "昨天",
+    "sentenceEng": "We met yesterday.",
+    "sentenceChi": "我們昨天見面。",
+    "category": "basic"
+  },
+  {
+    "word": "today",
+    "phonetic": "təˈdeɪ",
+    "pos": "",
+    "translation": "今天",
+    "sentenceEng": "She is busy today.",
+    "sentenceChi": "她今天很忙。",
+    "category": "basic"
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "təˈmɑː.roʊ",
+    "pos": "",
+    "translation": "明天",
+    "sentenceEng": "I will travel tomorrow.",
+    "sentenceChi": "我明天要旅行。",
+    "category": "basic"
+  },
+  {
+    "word": "here",
+    "phonetic": "hɪr",
+    "pos": "",
+    "translation": "這裡",
+    "sentenceEng": "Come here.",
+    "sentenceChi": "到這裡來。",
+    "category": "basic"
+  },
+  {
+    "word": "there",
+    "phonetic": "ðer",
+    "pos": "",
+    "translation": "那裡",
+    "sentenceEng": "He is standing there.",
+    "sentenceChi": "他站在那裡。",
+    "category": "basic"
+  },
+  {
+    "word": "everywhere",
+    "phonetic": "ˈev.ri.wer",
+    "pos": "",
+    "translation": "到處",
+    "sentenceEng": "Flowers are everywhere.",
+    "sentenceChi": "花開遍各地。",
+    "category": "basic"
+  },
+  {
+    "word": "anywhere",
+    "phonetic": "ˈen.i.wer",
+    "pos": "",
+    "translation": "任何地方",
+    "sentenceEng": "Sit anywhere you like.",
+    "sentenceChi": "隨便找任何地方坐。",
+    "category": "basic"
+  },
+  {
+    "word": "up",
+    "phonetic": "ʌp",
+    "pos": "",
+    "translation": "向上",
+    "sentenceEng": "Look up at the sky.",
+    "sentenceChi": "向上看天空。",
+    "category": "basic"
+  },
+  {
+    "word": "down",
+    "phonetic": "daʊn",
+    "pos": "",
+    "translation": "向下",
+    "sentenceEng": "He fell down.",
+    "sentenceChi": "他摔倒下去。",
+    "category": "basic"
+  },
+  {
+    "word": "inside",
+    "phonetic": "ɪnˈsaɪd",
+    "pos": "",
+    "translation": "裡面",
+    "sentenceEng": "The cat is inside the box.",
+    "sentenceChi": "貓在盒子裡面。",
+    "category": "basic"
+  },
+  {
+    "word": "outside",
+    "phonetic": "ˌaʊtˈsaɪd",
+    "pos": "",
+    "translation": "外面",
+    "sentenceEng": "Let’s go outside.",
+    "sentenceChi": "我們到外面去。",
+    "category": "basic"
+  },
+  {
+    "word": "in",
+    "phonetic": "ɪn",
+    "pos": "",
+    "translation": "在…裡面",
+    "sentenceEng": "She is in the room.",
+    "sentenceChi": "她在房間裡。",
+    "category": "basic"
+  },
+  {
+    "word": "out",
+    "phonetic": "aʊt",
+    "pos": "",
+    "translation": "出去",
+    "sentenceEng": "He went out with friends.",
+    "sentenceChi": "他和朋友出去了。",
+    "category": "basic"
+  },
+  {
+    "word": "on",
+    "phonetic": "ɑːn",
+    "pos": "",
+    "translation": "在…上面",
+    "sentenceEng": "The book is on the table.",
+    "sentenceChi": "書在桌子上。",
+    "category": "basic"
+  },
+  {
+    "word": "off",
+    "phonetic": "ɑːf",
+    "pos": "",
+    "translation": "離開",
+    "sentenceEng": "Turn off the light.",
+    "sentenceChi": "把燈關掉。",
+    "category": "basic"
+  },
+  {
+    "word": "yes",
+    "phonetic": "jes",
+    "pos": "",
+    "translation": "是的",
+    "sentenceEng": "Yes, I agree.",
+    "sentenceChi": "是的，我同意。",
+    "category": "basic"
+  },
+  {
+    "word": "no",
+    "phonetic": "noʊ",
+    "pos": "",
+    "translation": "不",
+    "sentenceEng": "No, I don’t want it.",
+    "sentenceChi": "不，我不要。",
+    "category": "basic"
+  },
+  {
+    "word": "please",
+    "phonetic": "pliːz",
+    "pos": "",
+    "translation": "請",
+    "sentenceEng": "Please help me.",
+    "sentenceChi": "請幫我。",
+    "category": "basic"
+  },
+  {
+    "word": "thank",
+    "phonetic": "θæŋk",
+    "pos": "",
+    "translation": "感謝",
+    "sentenceEng": "Thank you very much.",
+    "sentenceChi": "非常感謝你。",
+    "category": "basic"
+  },
+  {
+    "word": "sorry",
+    "phonetic": "ˈsɑːr.i",
+    "pos": "",
+    "translation": "抱歉",
+    "sentenceEng": "I am sorry.",
+    "sentenceChi": "我很抱歉。",
+    "category": "basic"
+  },
+  {
+    "word": "maybe",
+    "phonetic": "ˈmeɪ.bi",
+    "pos": "",
+    "translation": "也許",
+    "sentenceEng": "Maybe he is right.",
+    "sentenceChi": "也許他是對的。",
+    "category": "basic"
+  },
+  {
+    "word": "sure",
+    "phonetic": "ʃʊr",
+    "pos": "",
+    "translation": "當然",
+    "sentenceEng": "Sure, I can help.",
+    "sentenceChi": "當然，我可以幫忙。",
+    "category": "basic"
+  },
+  {
+    "word": "well",
+    "phonetic": "wel",
+    "pos": "",
+    "translation": "好地",
+    "sentenceEng": "She sings well.",
+    "sentenceChi": "她唱得很好。",
+    "category": "basic"
+  },
+  {
+    "word": "badly",
+    "phonetic": "ˈbæd.li",
+    "pos": "",
+    "translation": "壞地",
+    "sentenceEng": "He drives badly.",
+    "sentenceChi": "他開車很糟。",
+    "category": "basic"
+  },
+  {
+    "word": "together",
+    "phonetic": "təˈɡeð.ɚ",
+    "pos": "",
+    "translation": "一起",
+    "sentenceEng": "Let’s go together.",
+    "sentenceChi": "我們一起去吧。",
+    "category": "basic"
+  },
+  {
+    "word": "alone",
+    "phonetic": "əˈloʊn",
+    "pos": "",
+    "translation": "獨自",
+    "sentenceEng": "She lives alone.",
+    "sentenceChi": "她獨自生活。",
+    "category": "basic"
+  },
+  {
+    "word": "again",
+    "phonetic": "əˈɡen",
+    "pos": "",
+    "translation": "再一次",
+    "sentenceEng": "Try it again.",
+    "sentenceChi": "再試一次。",
+    "category": "basic"
+  },
+  {
+    "word": "already",
+    "phonetic": "ɑːlˈred.i",
+    "pos": "",
+    "translation": "已經",
+    "sentenceEng": "I have already eaten.",
+    "sentenceChi": "我已經吃過了。",
+    "category": "basic"
+  },
+  {
+    "word": "still",
+    "phonetic": "stɪl",
+    "pos": "",
+    "translation": "仍然",
+    "sentenceEng": "He is still sleeping.",
+    "sentenceChi": "他仍然在睡覺。",
+    "category": "basic"
+  },
+  {
+    "word": "yet",
+    "phonetic": "jet",
+    "pos": "",
+    "translation": "還沒",
+    "sentenceEng": "I haven’t finished yet.",
+    "sentenceChi": "我還沒完成。",
+    "category": "basic"
+  },
+  {
+    "word": "just",
+    "phonetic": "dʒʌst",
+    "pos": "",
+    "translation": "剛剛",
+    "sentenceEng": "I just saw him.",
+    "sentenceChi": "我剛剛看到他。",
+    "category": "basic"
+  },
+  {
+    "word": "almost",
+    "phonetic": "ˈɑːl.moʊst",
+    "pos": "",
+    "translation": "幾乎",
+    "sentenceEng": "It’s almost done.",
+    "sentenceChi": "它幾乎完成了。",
+    "category": "basic"
+  },
+  {
+    "word": "only",
+    "phonetic": "ˈoʊn.li",
+    "pos": "",
+    "translation": "只",
+    "sentenceEng": "She is the only child.",
+    "sentenceChi": "她是唯一的小孩。",
+    "category": "basic"
+  },
+  {
+    "word": "both",
+    "phonetic": "boʊθ",
+    "pos": "",
+    "translation": "兩者",
+    "sentenceEng": "Both of them are smart.",
+    "sentenceChi": "他們兩人都很聰明。",
+    "category": "basic"
+  },
+  {
+    "word": "all",
+    "phonetic": "ɑːl",
+    "pos": "",
+    "translation": "全部",
+    "sentenceEng": "We ate all the cake.",
+    "sentenceChi": "我們吃掉了全部蛋糕。",
+    "category": "basic"
+  },
+  {
+    "word": "some",
+    "phonetic": "sʌm",
+    "pos": "",
+    "translation": "一些",
+    "sentenceEng": "I need some water.",
+    "sentenceChi": "我需要一些水。",
+    "category": "basic"
+  },
+  {
+    "word": "any",
+    "phonetic": "ˈen.i",
+    "pos": "",
+    "translation": "任何",
+    "sentenceEng": "Do you have any idea?",
+    "sentenceChi": "你有任何想法嗎？",
+    "category": "basic"
+  },
+  {
+    "word": "many",
+    "phonetic": "ˈmen.i",
+    "pos": "",
+    "translation": "許多",
+    "sentenceEng": "There are many people here.",
+    "sentenceChi": "這裡有許多人。",
+    "category": "basic"
+  },
+  {
+    "word": "much",
+    "phonetic": "mʌtʃ",
+    "pos": "",
+    "translation": "大量",
+    "sentenceEng": "I don’t have much time.",
+    "sentenceChi": "我沒有很多時間。",
+    "category": "basic"
+  },
+  {
+    "word": "abandon",
+    "phonetic": "əˈbændən",
+    "pos": "v.",
+    "translation": "放棄、拋棄",
+    "sentenceEng": "They had to abandon their car in the flood.",
+    "sentenceChi": "他們不得不在洪水中棄車而逃。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ability",
+    "phonetic": "əˈbɪləti",
+    "pos": "n.",
+    "translation": "能力、才能",
+    "sentenceEng": "Her ability to speak three languages impressed everyone.",
+    "sentenceChi": "她說三種語言的能力令所有人印象深刻。",
+    "category": "intermediate"
+  },
+  {
+    "word": "absolute",
+    "phonetic": "ˈæbsəluːt",
+    "pos": "adj.",
+    "translation": "絕對的、完全的",
+    "sentenceEng": "The king had absolute power over his subjects.",
+    "sentenceChi": "國王對臣民擁有絕對權力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "absorb",
+    "phonetic": "əbˈzɔːrb",
+    "pos": "v.",
+    "translation": "吸收、理解",
+    "sentenceEng": "Plants absorb carbon dioxide from the atmosphere.",
+    "sentenceChi": "植物從大氣中吸收二氧化碳。",
+    "category": "intermediate"
+  },
+  {
+    "word": "abstract",
+    "phonetic": "ˈæbstrækt",
+    "pos": "adj.",
+    "translation": "抽象的、理論的",
+    "sentenceEng": "Philosophy deals with many abstract concepts.",
+    "sentenceChi": "哲學處理許多抽象概念。",
+    "category": "intermediate"
+  },
+  {
+    "word": "academic",
+    "phonetic": "ækəˈdemɪk",
+    "pos": "adj.",
+    "translation": "學術的、理論的",
+    "sentenceEng": "She received an academic scholarship to university.",
+    "sentenceChi": "她獲得了大學學術獎學金。",
+    "category": "intermediate"
+  },
+  {
+    "word": "accept",
+    "phonetic": "əkˈsept",
+    "pos": "v.",
+    "translation": "接受、承認",
+    "sentenceEng": "I accept your apology and forgive you.",
+    "sentenceChi": "我接受你的道歉並原諒你。",
+    "category": "intermediate"
+  },
+  {
+    "word": "access",
+    "phonetic": "ˈækses",
+    "pos": "n./v.",
+    "translation": "進入、接近",
+    "sentenceEng": "Students have free access to the library.",
+    "sentenceChi": "學生可以免費使用圖書館。",
+    "category": "intermediate"
+  },
+  {
+    "word": "account",
+    "phonetic": "əˈkaʊnt",
+    "pos": "n./v.",
+    "translation": "帳戶、說明",
+    "sentenceEng": "Please transfer the money to my bank account.",
+    "sentenceChi": "請將錢轉到我的銀行帳戶。",
+    "category": "intermediate"
+  },
+  {
+    "word": "accurate",
+    "phonetic": "ˈækjərət",
+    "pos": "adj.",
+    "translation": "準確的、精確的",
+    "sentenceEng": "The weather forecast was surprisingly accurate.",
+    "sentenceChi": "天氣預報出人意料地準確。",
+    "category": "intermediate"
+  },
+  {
+    "word": "achieve",
+    "phonetic": "əˈtʃiːv",
+    "pos": "v.",
+    "translation": "達成、實現",
+    "sentenceEng": "Hard work helped him achieve his goals.",
+    "sentenceChi": "努力工作幫助他達成目標。",
+    "category": "intermediate"
+  },
+  {
+    "word": "acquire",
+    "phonetic": "əˈkwaɪər",
+    "pos": "v.",
+    "translation": "獲得、學會",
+    "sentenceEng": "Children acquire language naturally through exposure.",
+    "sentenceChi": "兒童通過接觸自然地習得語言。",
+    "category": "intermediate"
+  },
+  {
+    "word": "actual",
+    "phonetic": "ˈæktʃuəl",
+    "pos": "adj.",
+    "translation": "實際的、真實的",
+    "sentenceEng": "The actual cost was higher than estimated.",
+    "sentenceChi": "實際成本比估計的要高。",
+    "category": "intermediate"
+  },
+  {
+    "word": "adapt",
+    "phonetic": "əˈdæpt",
+    "pos": "v.",
+    "translation": "適應、改編",
+    "sentenceEng": "Animals must adapt to survive in changing environments.",
+    "sentenceChi": "動物必須適應才能在變化的環境中生存。",
+    "category": "intermediate"
+  },
+  {
+    "word": "adequate",
+    "phonetic": "ˈædɪkwət",
+    "pos": "adj.",
+    "translation": "足夠的、適當的",
+    "sentenceEng": "The hotel provided adequate but not luxurious accommodation.",
+    "sentenceChi": "旅館提供了足夠但不豪華的住宿。",
+    "category": "intermediate"
+  },
+  {
+    "word": "administration",
+    "phonetic": "ədˌmɪnɪˈstreɪʃn",
+    "pos": "n.",
+    "translation": "管理、行政",
+    "sentenceEng": "The new administration promised to reduce taxes.",
+    "sentenceChi": "新政府承諾減稅。",
+    "category": "intermediate"
+  },
+  {
+    "word": "admit",
+    "phonetic": "ədˈmɪt",
+    "pos": "v.",
+    "translation": "承認、允許進入",
+    "sentenceEng": "The university will admit 500 new students this year.",
+    "sentenceChi": "大學今年將錄取500名新生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "adopt",
+    "phonetic": "əˈdɒpt",
+    "pos": "v.",
+    "translation": "採用、收養",
+    "sentenceEng": "The company decided to adopt a new marketing strategy.",
+    "sentenceChi": "公司決定採用新的營銷策略。",
+    "category": "intermediate"
+  },
+  {
+    "word": "adult",
+    "phonetic": "ˈædʌlt",
+    "pos": "n./adj.",
+    "translation": "成人、成年的",
+    "sentenceEng": "Only adults are allowed to enter this area.",
+    "sentenceChi": "只有成年人才能進入這個區域。",
+    "category": "intermediate"
+  },
+  {
+    "word": "advance",
+    "phonetic": "ədˈvæns",
+    "pos": "v./n.",
+    "translation": "前進、進步",
+    "sentenceEng": "Technology continues to advance at a rapid pace.",
+    "sentenceChi": "技術繼續快速發展。",
+    "category": "intermediate"
+  },
+  {
+    "word": "back",
+    "phonetic": "bæk",
+    "pos": "n./adv./v.",
+    "translation": "背部、返回、支持",
+    "sentenceEng": "Please sit back and relax during the flight.",
+    "sentenceChi": "飛行期間請坐好並放鬆。",
+    "category": "intermediate"
+  },
+  {
+    "word": "background",
+    "phonetic": "ˈbækɡraʊnd",
+    "pos": "n.",
+    "translation": "背景、出身",
+    "sentenceEng": "His background in engineering helped him solve the problem.",
+    "sentenceChi": "他的工程背景幫助他解決了問題。",
+    "category": "intermediate"
+  },
+  {
+    "word": "backward",
+    "phonetic": "ˈbækwərd",
+    "pos": "adj./adv.",
+    "translation": "向後的、落後的",
+    "sentenceEng": "The car rolled backward down the hill.",
+    "sentenceChi": "汽車向後滾下山坡。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bacteria",
+    "phonetic": "bækˈtɪriə",
+    "pos": "n.",
+    "translation": "細菌",
+    "sentenceEng": "Washing hands removes harmful bacteria.",
+    "sentenceChi": "洗手可以去除有害細菌。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bad",
+    "phonetic": "bæd",
+    "pos": "adj.",
+    "translation": "壞的、糟糕的",
+    "sentenceEng": "Smoking is bad for your health.",
+    "sentenceChi": "吸煙對健康有害。",
+    "category": "intermediate"
+  },
+  {
+    "word": "baggage",
+    "phonetic": "ˈbæɡɪdʒ",
+    "pos": "n.",
+    "translation": "行李",
+    "sentenceEng": "Passengers must check their baggage before boarding.",
+    "sentenceChi": "乘客登機前必須檢查行李。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bake",
+    "phonetic": "beɪk",
+    "pos": "v.",
+    "translation": "烘烤、烘焙",
+    "sentenceEng": "She likes to bake cookies for her children.",
+    "sentenceChi": "她喜歡為孩子們烘焙餅乾。",
+    "category": "intermediate"
+  },
+  {
+    "word": "balance",
+    "phonetic": "ˈbæləns",
+    "pos": "n./v.",
+    "translation": "平衡、餘額",
+    "sentenceEng": "It's important to balance work and family life.",
+    "sentenceChi": "平衡工作和家庭生活很重要。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ball",
+    "phonetic": "bɔːl",
+    "pos": "n.",
+    "translation": "球、舞會",
+    "sentenceEng": "The children played with a colorful ball in the park.",
+    "sentenceChi": "孩子們在公園裡玩彩色球。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ban",
+    "phonetic": "bæn",
+    "pos": "v./n.",
+    "translation": "禁止、禁令",
+    "sentenceEng": "The city will ban smoking in all public places.",
+    "sentenceChi": "該市將禁止在所有公共場所吸煙。",
+    "category": "intermediate"
+  },
+  {
+    "word": "band",
+    "phonetic": "bænd",
+    "pos": "n.",
+    "translation": "樂隊、帶子",
+    "sentenceEng": "The rock band performed at the music festival.",
+    "sentenceChi": "搖滾樂隊在音樂節上演出。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bank",
+    "phonetic": "bæŋk",
+    "pos": "n.",
+    "translation": "銀行、河岸",
+    "sentenceEng": "She deposited her paycheck at the bank.",
+    "sentenceChi": "她在銀行存了薪水。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bar",
+    "phonetic": "bɑːr",
+    "pos": "n.",
+    "translation": "酒吧、條狀物",
+    "sentenceEng": "They met at the bar after work for drinks.",
+    "sentenceChi": "他們下班後在酒吧喝酒。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bare",
+    "phonetic": "ber",
+    "pos": "adj.",
+    "translation": "裸露的、基本的",
+    "sentenceEng": "The room was bare except for a single chair.",
+    "sentenceChi": "房間裡除了一把椅子外什麼都沒有。",
+    "category": "intermediate"
+  },
+  {
+    "word": "barely",
+    "phonetic": "ˈberli",
+    "pos": "adv.",
+    "translation": "僅僅、幾乎不",
+    "sentenceEng": "She barely had enough money to buy lunch.",
+    "sentenceChi": "她幾乎沒有足夠的錢買午餐。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bargain",
+    "phonetic": "ˈbɑːrɡən",
+    "pos": "n./v.",
+    "translation": "便宜貨、討價還價",
+    "sentenceEng": "The antique was a real bargain at that price.",
+    "sentenceChi": "那個古董以那個價格真是便宜貨。",
+    "category": "intermediate"
+  },
+  {
+    "word": "bark",
+    "phonetic": "bɑːrk",
+    "pos": "n./v.",
+    "translation": "樹皮、吠叫",
+    "sentenceEng": "The dog began to bark when strangers approached.",
+    "sentenceChi": "當陌生人靠近時狗開始吠叫。",
+    "category": "intermediate"
+  },
+  {
+    "word": "barrier",
+    "phonetic": "ˈbæriər",
+    "pos": "n.",
+    "translation": "障礙、屏障",
+    "sentenceEng": "Language can be a barrier to communication.",
+    "sentenceChi": "語言可能是溝通的障礙。",
+    "category": "intermediate"
+  },
+  {
+    "word": "base",
+    "phonetic": "beɪs",
+    "pos": "n./v.",
+    "translation": "基礎、建立在",
+    "sentenceEng": "Success is often based on hard work and dedication.",
+    "sentenceChi": "成功通常建立在努力工作和奉獻的基礎上。",
+    "category": "intermediate"
+  },
+  {
+    "word": "basic",
+    "phonetic": "ˈbeɪsɪk",
+    "pos": "adj.",
+    "translation": "基本的、基礎的",
+    "sentenceEng": "Learning basic grammar is essential for language study.",
+    "sentenceChi": "學習基本語法對語言學習至關重要。",
+    "category": "intermediate"
+  },
+  {
+    "word": "cable",
+    "phonetic": "ˈkeɪbl",
+    "pos": "n.",
+    "translation": "電纜、纜線",
+    "sentenceEng": "The internet cable was damaged in the storm.",
+    "sentenceChi": "網路電纜在暴風雨中受損。",
+    "category": "intermediate"
+  },
+  {
+    "word": "cake",
+    "phonetic": "keɪk",
+    "pos": "n.",
+    "translation": "蛋糕、糕點",
+    "sentenceEng": "She baked a chocolate cake for the birthday party.",
+    "sentenceChi": "她為生日派對烤了巧克力蛋糕。",
+    "category": "intermediate"
+  },
+  {
+    "word": "calculate",
+    "phonetic": "ˈkælkjuleɪt",
+    "pos": "v.",
+    "translation": "計算、估算",
+    "sentenceEng": "Students must calculate the area of the triangle.",
+    "sentenceChi": "學生們必須計算三角形的面積。",
+    "category": "intermediate"
+  },
+  {
+    "word": "calm",
+    "phonetic": "kɑːm",
+    "pos": "adj./v.",
+    "translation": "冷靜的、平靜",
+    "sentenceEng": "The calm sea reflected the sunset beautifully.",
+    "sentenceChi": "平靜的海面美麗地反射著夕陽。",
+    "category": "intermediate"
+  },
+  {
+    "word": "camera",
+    "phonetic": "ˈkæmərə",
+    "pos": "n.",
+    "translation": "照相機、攝影機",
+    "sentenceEng": "The wildlife photographer used a professional camera.",
+    "sentenceChi": "野生動物攝影師使用專業照相機。",
+    "category": "intermediate"
+  },
+  {
+    "word": "camp",
+    "phonetic": "kæmp",
+    "pos": "n./v.",
+    "translation": "營地、露營",
+    "sentenceEng": "Children love to camp in the forest during summer.",
+    "sentenceChi": "孩子們喜歡在夏天到森林裡露營。",
+    "category": "intermediate"
+  },
+  {
+    "word": "campaign",
+    "phonetic": "kæmˈpeɪn",
+    "pos": "n./v.",
+    "translation": "活動、競選",
+    "sentenceEng": "The environmental campaign raised awareness about pollution.",
+    "sentenceChi": "環保活動提高了對污染的認識。",
+    "category": "intermediate"
+  },
+  {
+    "word": "campus",
+    "phonetic": "ˈkæmpəs",
+    "pos": "n.",
+    "translation": "校園",
+    "sentenceEng": "The university campus has beautiful gardens.",
+    "sentenceChi": "大學校園有美麗的花園。",
+    "category": "intermediate"
+  },
+  {
+    "word": "can",
+    "phonetic": "kæn",
+    "pos": "modal v./n.",
+    "translation": "能夠、罐頭",
+    "sentenceEng": "You can achieve anything with hard work.",
+    "sentenceChi": "通過努力工作你可以實現任何事情。",
+    "category": "intermediate"
+  },
+  {
+    "word": "cancel",
+    "phonetic": "ˈkænsəl",
+    "pos": "v.",
+    "translation": "取消、撤銷",
+    "sentenceEng": "They had to cancel the outdoor concert due to rain.",
+    "sentenceChi": "由於下雨他們不得不取消戶外音樂會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "cancer",
+    "phonetic": "ˈkænsər",
+    "pos": "n.",
+    "translation": "癌症",
+    "sentenceEng": "Early detection improves cancer treatment success.",
+    "sentenceChi": "早期發現提高癌症治療成功率。",
+    "category": "intermediate"
+  },
+  {
+    "word": "candidate",
+    "phonetic": "ˈkændɪdət",
+    "pos": "n.",
+    "translation": "候選人、應徵者",
+    "sentenceEng": "The candidate impressed everyone during the interview.",
+    "sentenceChi": "候選人在面試中給每個人留下了深刻印象。",
+    "category": "intermediate"
+  },
+  {
+    "word": "capable",
+    "phonetic": "ˈkeɪpəbl",
+    "pos": "adj.",
+    "translation": "有能力的、能幹的",
+    "sentenceEng": "She is capable of handling difficult situations.",
+    "sentenceChi": "她能夠處理困難的情況。",
+    "category": "intermediate"
+  },
+  {
+    "word": "capacity",
+    "phonetic": "kəˈpæsəti",
+    "pos": "n.",
+    "translation": "容量、能力",
+    "sentenceEng": "The stadium has a capacity of 50,000 spectators.",
+    "sentenceChi": "體育場可容納50,000名觀眾。",
+    "category": "intermediate"
+  },
+  {
+    "word": "capital",
+    "phonetic": "ˈkæpɪtl",
+    "pos": "n./adj.",
+    "translation": "首都、資本",
+    "sentenceEng": "Paris is the capital city of France.",
+    "sentenceChi": "巴黎是法國的首都。",
+    "category": "intermediate"
+  },
+  {
+    "word": "captain",
+    "phonetic": "ˈkæptən",
+    "pos": "n.",
+    "translation": "船長、隊長",
+    "sentenceEng": "The ship's captain navigated through the storm.",
+    "sentenceChi": "船長在暴風雨中航行。",
+    "category": "intermediate"
+  },
+  {
+    "word": "capture",
+    "phonetic": "ˈkæptʃər",
+    "pos": "v./n.",
+    "translation": "捕獲、抓住",
+    "sentenceEng": "The photographer managed to capture the perfect moment.",
+    "sentenceChi": "攝影師成功捕捉到完美的瞬間。",
+    "category": "intermediate"
+  },
+  {
+    "word": "card",
+    "phonetic": "kɑːrd",
+    "pos": "n.",
+    "translation": "卡片、紙牌",
+    "sentenceEng": "She sent a birthday card to her grandmother.",
+    "sentenceChi": "她寄了一張生日賀卡給祖母。",
+    "category": "intermediate"
+  },
+  {
+    "word": "care",
+    "phonetic": "ker",
+    "pos": "v./n.",
+    "translation": "關心、照顧",
+    "sentenceEng": "Parents care deeply about their children's happiness.",
+    "sentenceChi": "父母深深關心孩子們的幸福。",
+    "category": "intermediate"
+  },
+  {
+    "word": "career",
+    "phonetic": "kəˈrɪr",
+    "pos": "n.",
+    "translation": "事業、職業生涯",
+    "sentenceEng": "She built a successful career in medicine.",
+    "sentenceChi": "她在醫學領域建立了成功的職業生涯。",
+    "category": "intermediate"
+  },
+  {
+    "word": "careful",
+    "phonetic": "ˈkerfəl",
+    "pos": "adj.",
+    "translation": "小心的、仔細的",
+    "sentenceEng": "Be careful when crossing the busy street.",
+    "sentenceChi": "過繁忙街道時要小心。",
+    "category": "intermediate"
+  },
+  {
+    "word": "carry",
+    "phonetic": "ˈkæri",
+    "pos": "v.",
+    "translation": "攜帶、運載",
+    "sentenceEng": "Strong workers carry heavy boxes easily.",
+    "sentenceChi": "強壯的工人輕鬆搬運重箱子。",
+    "category": "intermediate"
+  },
+  {
+    "word": "damage",
+    "phonetic": "ˈdæmɪdʒ",
+    "pos": "n./v.",
+    "translation": "損害、破壞",
+    "sentenceEng": "The storm caused significant damage to crops.",
+    "sentenceChi": "暴風雨對農作物造成重大損害。",
+    "category": "intermediate"
+  },
+  {
+    "word": "danger",
+    "phonetic": "ˈdeɪndʒər",
+    "pos": "n.",
+    "translation": "危險、威脅",
+    "sentenceEng": "Swimming alone can pose serious danger.",
+    "sentenceChi": "獨自游泳可能帶來嚴重危險。",
+    "category": "intermediate"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "ˈdeɪndʒərəs",
+    "pos": "adj.",
+    "translation": "危險的、有害的",
+    "sentenceEng": "Dangerous chemicals require special handling.",
+    "sentenceChi": "危險化學品需要特殊處理。",
+    "category": "intermediate"
+  },
+  {
+    "word": "dare",
+    "phonetic": "der",
+    "pos": "v./n.",
+    "translation": "敢、挑戰",
+    "sentenceEng": "Few people dare to climb that mountain.",
+    "sentenceChi": "很少有人敢爬那座山。",
+    "category": "intermediate"
+  },
+  {
+    "word": "dark",
+    "phonetic": "dɑːrk",
+    "pos": "adj./n.",
+    "translation": "黑暗的、暗色",
+    "sentenceEng": "The dark room needed more lighting.",
+    "sentenceChi": "黑暗的房間需要更多照明。",
+    "category": "intermediate"
+  },
+  {
+    "word": "date",
+    "phonetic": "deɪt",
+    "pos": "n./v.",
+    "translation": "日期、約會",
+    "sentenceEng": "Please write today's date on your paper.",
+    "sentenceChi": "請在你的紙上寫上今天的日期。",
+    "category": "intermediate"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "ˈdɔːtər",
+    "pos": "n.",
+    "translation": "女兒",
+    "sentenceEng": "Their daughter graduated from university.",
+    "sentenceChi": "他們的女兒大學畢業了。",
+    "category": "intermediate"
+  },
+  {
+    "word": "deal",
+    "phonetic": "diːl",
+    "pos": "v./n.",
+    "translation": "處理、交易",
+    "sentenceEng": "Let's deal with this problem immediately.",
+    "sentenceChi": "讓我們立即處理這個問題。",
+    "category": "intermediate"
+  },
+  {
+    "word": "dear",
+    "phonetic": "dɪr",
+    "pos": "adj./n.",
+    "translation": "親愛的、昂貴的",
+    "sentenceEng": "Her dear friend visited from abroad.",
+    "sentenceChi": "她親愛的朋友從國外來訪。",
+    "category": "intermediate"
+  },
+  {
+    "word": "debate",
+    "phonetic": "dɪˈbeɪt",
+    "pos": "n./v.",
+    "translation": "辯論、爭論",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "decade",
+    "phonetic": "ˈdekeɪd",
+    "pos": "n.",
+    "translation": "十年",
+    "sentenceEng": "Technology advanced rapidly in the past decade.",
+    "sentenceChi": "在過去十年中技術迅速發展。",
+    "category": "intermediate"
+  },
+  {
+    "word": "decision",
+    "phonetic": "dɪˈsɪʒn",
+    "pos": "n.",
+    "translation": "決定、決策",
+    "sentenceEng": "Making important decisions requires careful thought.",
+    "sentenceChi": "做重要決定需要仔細思考。",
+    "category": "intermediate"
+  },
+  {
+    "word": "declare",
+    "phonetic": "dɪˈkler",
+    "pos": "v.",
+    "translation": "宣布、聲明",
+    "sentenceEng": "The president will declare a national holiday.",
+    "sentenceChi": "總統將宣布國定假日。",
+    "category": "intermediate"
+  },
+  {
+    "word": "deep",
+    "phonetic": "diːp",
+    "pos": "adj./adv.",
+    "translation": "深的、深深地",
+    "sentenceEng": "The deep ocean contains mysterious creatures.",
+    "sentenceChi": "深海中有神秘的生物。",
+    "category": "intermediate"
+  },
+  {
+    "word": "degree",
+    "phonetic": "dɪˈɡriː",
+    "pos": "n.",
+    "translation": "學位、度數",
+    "sentenceEng": "She earned a master's degree in education.",
+    "sentenceChi": "她獲得了教育學碩士學位。",
+    "category": "intermediate"
+  },
+  {
+    "word": "deliver",
+    "phonetic": "dɪˈlɪvər",
+    "pos": "v.",
+    "translation": "遞送、發表",
+    "sentenceEng": "Mail carriers deliver packages daily.",
+    "sentenceChi": "郵遞員每天遞送包裹。",
+    "category": "intermediate"
+  },
+  {
+    "word": "department",
+    "phonetic": "dɪˈpɑːrtmənt",
+    "pos": "n.",
+    "translation": "部門、科系",
+    "sentenceEng": "The marketing department increased sales.",
+    "sentenceChi": "營銷部門增加了銷售額。",
+    "category": "intermediate"
+  },
+  {
+    "word": "depend",
+    "phonetic": "dɪˈpend",
+    "pos": "v.",
+    "translation": "依靠、取決於",
+    "sentenceEng": "Children depend on parents for support.",
+    "sentenceChi": "孩子依靠父母的支持。",
+    "category": "intermediate"
+  },
+  {
+    "word": "describe",
+    "phonetic": "dɪˈskraɪb",
+    "pos": "v.",
+    "translation": "描述、形容",
+    "sentenceEng": "Please describe your travel experience.",
+    "sentenceChi": "請描述你的旅行經驗。",
+    "category": "intermediate"
+  },
+  {
+    "word": "design",
+    "phonetic": "dɪˈzaɪn",
+    "pos": "v./n.",
+    "translation": "設計、圖案",
+    "sentenceEng": "Architects design beautiful buildings.",
+    "sentenceChi": "建築師設計美麗的建築。",
+    "category": "intermediate"
+  },
+  {
+    "word": "desk",
+    "phonetic": "desk",
+    "pos": "n.",
+    "translation": "書桌、辦公桌",
+    "sentenceEng": "Students organize supplies on their desk.",
+    "sentenceChi": "學生在書桌上整理用品。",
+    "category": "intermediate"
+  },
+  {
+    "word": "develop",
+    "phonetic": "dɪˈveləp",
+    "pos": "v.",
+    "translation": "發展、開發",
+    "sentenceEng": "Companies develop new technologies constantly.",
+    "sentenceChi": "公司不斷開發新技術。",
+    "category": "intermediate"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "ˈdɪkʃəneri",
+    "pos": "n.",
+    "translation": "字典、詞典",
+    "sentenceEng": "Students use dictionaries to learn vocabulary.",
+    "sentenceChi": "學生使用字典學習詞彙。",
+    "category": "intermediate"
+  },
+  {
+    "word": "each",
+    "phonetic": "iːtʃ",
+    "pos": "det./pron.",
+    "translation": "每個、各自",
+    "sentenceEng": "Each student must complete the assignment individually.",
+    "sentenceChi": "每個學生都必須單獨完成作業。",
+    "category": "intermediate"
+  },
+  {
+    "word": "eager",
+    "phonetic": "ˈiːɡər",
+    "pos": "adj.",
+    "translation": "渴望的、熱切的",
+    "sentenceEng": "Young children are eager to learn new skills.",
+    "sentenceChi": "小孩子渴望學習新技能。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ear",
+    "phonetic": "ɪr",
+    "pos": "n.",
+    "translation": "耳朵、聽覺",
+    "sentenceEng": "Loud music can damage your ear permanently.",
+    "sentenceChi": "大聲音樂可能永久損害你的耳朵。",
+    "category": "intermediate"
+  },
+  {
+    "word": "earn",
+    "phonetic": "ɜːrn",
+    "pos": "v.",
+    "translation": "賺取、獲得",
+    "sentenceEng": "Hard work helps earn success and respect.",
+    "sentenceChi": "努力工作有助於獲得成功和尊重。",
+    "category": "intermediate"
+  },
+  {
+    "word": "earth",
+    "phonetic": "ɜːrθ",
+    "pos": "n.",
+    "translation": "地球、土地",
+    "sentenceEng": "Protecting Earth is everyone's responsibility.",
+    "sentenceChi": "保護地球是每個人的責任。",
+    "category": "intermediate"
+  },
+  {
+    "word": "earthquake",
+    "phonetic": "ˈɜːrθkweɪk",
+    "pos": "n.",
+    "translation": "地震",
+    "sentenceEng": "The powerful earthquake shook buildings violently.",
+    "sentenceChi": "強烈地震劇烈搖晃建築物。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ease",
+    "phonetic": "iːz",
+    "pos": "n./v.",
+    "translation": "容易、減輕",
+    "sentenceEng": "Technology should ease daily life tasks.",
+    "sentenceChi": "科技應該減輕日常生活任務。",
+    "category": "intermediate"
+  },
+  {
+    "word": "east",
+    "phonetic": "iːst",
+    "pos": "n./adj.",
+    "translation": "東方、東邊的",
+    "sentenceEng": "The sun rises in the east every morning.",
+    "sentenceChi": "太陽每天早上從東方升起。",
+    "category": "intermediate"
+  },
+  {
+    "word": "eastern",
+    "phonetic": "ˈiːstərn",
+    "pos": "adj.",
+    "translation": "東方的、東部的",
+    "sentenceEng": "Eastern philosophy emphasizes inner peace.",
+    "sentenceChi": "東方哲學強調內心平靜。",
+    "category": "intermediate"
+  },
+  {
+    "word": "economic",
+    "phonetic": "ˌiːkəˈnɑːmɪk",
+    "pos": "adj.",
+    "translation": "經濟的、經濟學的",
+    "sentenceEng": "Economic growth benefits entire nations.",
+    "sentenceChi": "經濟增長造福整個國家。",
+    "category": "intermediate"
+  },
+  {
+    "word": "economy",
+    "phonetic": "ɪˈkɑːnəmi",
+    "pos": "n.",
+    "translation": "經濟、經濟體",
+    "sentenceEng": "Technology drives modern economy forward.",
+    "sentenceChi": "科技推動現代經濟向前發展。",
+    "category": "intermediate"
+  },
+  {
+    "word": "edge",
+    "phonetic": "edʒ",
+    "pos": "n.",
+    "translation": "邊緣、優勢",
+    "sentenceEng": "Sharp knives have a dangerous edge.",
+    "sentenceChi": "鋒利的刀有危險的刀刃。",
+    "category": "intermediate"
+  },
+  {
+    "word": "education",
+    "phonetic": "ˌedʒuˈkeɪʃn",
+    "pos": "n.",
+    "translation": "教育、教養",
+    "sentenceEng": "Quality education opens doors to opportunities.",
+    "sentenceChi": "優質教育為機會打開大門。",
+    "category": "intermediate"
+  },
+  {
+    "word": "effect",
+    "phonetic": "ɪˈfekt",
+    "pos": "n.",
+    "translation": "效果、影響",
+    "sentenceEng": "Exercise has positive effects on health.",
+    "sentenceChi": "運動對健康有積極影響。",
+    "category": "intermediate"
+  },
+  {
+    "word": "effective",
+    "phonetic": "ɪˈfektɪv",
+    "pos": "adj.",
+    "translation": "有效的、起作用的",
+    "sentenceEng": "Effective communication prevents misunderstandings.",
+    "sentenceChi": "有效溝通防止誤解。",
+    "category": "intermediate"
+  },
+  {
+    "word": "effort",
+    "phonetic": "ˈefərt",
+    "pos": "n.",
+    "translation": "努力、嘗試",
+    "sentenceEng": "Success requires consistent effort and patience.",
+    "sentenceChi": "成功需要持續的努力和耐心。",
+    "category": "intermediate"
+  },
+  {
+    "word": "egg",
+    "phonetic": "eɡ",
+    "pos": "n.",
+    "translation": "雞蛋、卵",
+    "sentenceEng": "Fresh eggs provide excellent protein.",
+    "sentenceChi": "新鮮雞蛋提供優質蛋白質。",
+    "category": "intermediate"
+  },
+  {
+    "word": "eight",
+    "phonetic": "eɪt",
+    "pos": "num.",
+    "translation": "八、八個",
+    "sentenceEng": "The meeting starts at eight o'clock sharp.",
+    "sentenceChi": "會議八點整開始。",
+    "category": "intermediate"
+  },
+  {
+    "word": "eighteen",
+    "phonetic": "ˌeɪˈtiːn",
+    "pos": "num.",
+    "translation": "十八",
+    "sentenceEng": "She learned to drive at eighteen years old.",
+    "sentenceChi": "她十八歲學會開車。",
+    "category": "intermediate"
+  },
+  {
+    "word": "eighty",
+    "phonetic": "ˈeɪti",
+    "pos": "num.",
+    "translation": "八十",
+    "sentenceEng": "His grandfather lived to eighty years old.",
+    "sentenceChi": "他的祖父活到八十歲。",
+    "category": "intermediate"
+  },
+  {
+    "word": "either",
+    "phonetic": "ˈiːðər",
+    "pos": "det./conj.",
+    "translation": "任一、或者",
+    "sentenceEng": "You can choose either option for lunch.",
+    "sentenceChi": "你可以選擇任一午餐選項。",
+    "category": "intermediate"
+  },
+  {
+    "word": "election",
+    "phonetic": "ɪˈlekʃn",
+    "pos": "n.",
+    "translation": "選舉、選擇",
+    "sentenceEng": "Democratic elections ensure fair representation.",
+    "sentenceChi": "民主選舉確保公平代表。",
+    "category": "intermediate"
+  },
+  {
+    "word": "face",
+    "phonetic": "feɪs",
+    "pos": "n./v.",
+    "translation": "臉、面對",
+    "sentenceEng": "She smiled when they faced each other.",
+    "sentenceChi": "當他們面對面時她笑了。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fact",
+    "phonetic": "fækt",
+    "pos": "n.",
+    "translation": "事實、真相",
+    "sentenceEng": "Scientists base theories on proven facts.",
+    "sentenceChi": "科學家基於已證實的事實建立理論。",
+    "category": "intermediate"
+  },
+  {
+    "word": "factor",
+    "phonetic": "ˈfæktər",
+    "pos": "n.",
+    "translation": "因素、要素",
+    "sentenceEng": "Weather is an important factor in agriculture.",
+    "sentenceChi": "天氣是農業的重要因素。",
+    "category": "intermediate"
+  },
+  {
+    "word": "factory",
+    "phonetic": "ˈfæktəri",
+    "pos": "n.",
+    "translation": "工廠、製造廠",
+    "sentenceEng": "The factory produces automobiles efficiently.",
+    "sentenceChi": "工廠高效生產汽車。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fail",
+    "phonetic": "feɪl",
+    "pos": "v.",
+    "translation": "失敗、不及格",
+    "sentenceEng": "Students who don't study may fail exams.",
+    "sentenceChi": "不學習的學生可能會考試不及格。",
+    "category": "intermediate"
+  },
+  {
+    "word": "failure",
+    "phonetic": "ˈfeɪljər",
+    "pos": "n.",
+    "translation": "失敗、故障",
+    "sentenceEng": "Failure often leads to eventual success.",
+    "sentenceChi": "失敗往往導致最終成功。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fair",
+    "phonetic": "fer",
+    "pos": "adj./n.",
+    "translation": "公平的、集市",
+    "sentenceEng": "Everyone deserves fair treatment under law.",
+    "sentenceChi": "每個人都應在法律下得到公平對待。",
+    "category": "intermediate"
+  },
+  {
+    "word": "faith",
+    "phonetic": "feɪθ",
+    "pos": "n.",
+    "translation": "信仰、信心",
+    "sentenceEng": "She kept faith despite many challenges.",
+    "sentenceChi": "儘管面臨許多挑戰她仍保持信心。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fall",
+    "phonetic": "fɔːl",
+    "pos": "v./n.",
+    "translation": "跌倒、秋天",
+    "sentenceEng": "Leaves fall from trees in autumn.",
+    "sentenceChi": "秋天樹葉從樹上掉落。",
+    "category": "intermediate"
+  },
+  {
+    "word": "false",
+    "phonetic": "fɔːls",
+    "pos": "adj.",
+    "translation": "假的、錯誤的",
+    "sentenceEng": "False information spreads quickly online.",
+    "sentenceChi": "虛假信息在網上傳播很快。",
+    "category": "intermediate"
+  },
+  {
+    "word": "familiar",
+    "phonetic": "fəˈmɪljər",
+    "pos": "adj.",
+    "translation": "熟悉的、常見的",
+    "sentenceEng": "The song sounded familiar to everyone.",
+    "sentenceChi": "這首歌對每個人來說都很熟悉。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fan",
+    "phonetic": "fæn",
+    "pos": "n./v.",
+    "translation": "風扇、粉絲",
+    "sentenceEng": "The electric fan cooled the room.",
+    "sentenceChi": "電風扇讓房間涼爽。",
+    "category": "intermediate"
+  },
+  {
+    "word": "far",
+    "phonetic": "fɑːr",
+    "pos": "adj./adv.",
+    "translation": "遠的、遠地",
+    "sentenceEng": "The mountains look far in the distance.",
+    "sentenceChi": "山脈在遠處看起來很遠。",
+    "category": "intermediate"
+  },
+  {
+    "word": "farm",
+    "phonetic": "fɑːrm",
+    "pos": "n./v.",
+    "translation": "農場、務農",
+    "sentenceEng": "Organic farms grow healthy vegetables.",
+    "sentenceChi": "有機農場種植健康蔬菜。",
+    "category": "intermediate"
+  },
+  {
+    "word": "farmer",
+    "phonetic": "ˈfɑːrmər",
+    "pos": "n.",
+    "translation": "農民、農夫",
+    "sentenceEng": "The farmer harvested wheat in summer.",
+    "sentenceChi": "農民在夏天收穫小麥。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fashion",
+    "phonetic": "ˈfæʃn",
+    "pos": "n.",
+    "translation": "時尚、方式",
+    "sentenceEng": "Paris influences global fashion trends.",
+    "sentenceChi": "巴黎影響全球時尚趨勢。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fat",
+    "phonetic": "fæt",
+    "pos": "adj./n.",
+    "translation": "胖的、脂肪",
+    "sentenceEng": "Healthy diets limit saturated fat intake.",
+    "sentenceChi": "健康飲食限制飽和脂肪攝入。",
+    "category": "intermediate"
+  },
+  {
+    "word": "father",
+    "phonetic": "ˈfɑːðər",
+    "pos": "n.",
+    "translation": "父親、爸爸",
+    "sentenceEng": "Her father taught her to ride bicycles.",
+    "sentenceChi": "她父親教她騎自行車。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fault",
+    "phonetic": "fɔːlt",
+    "pos": "n.",
+    "translation": "過錯、故障",
+    "sentenceEng": "The earthquake caused no fault in anyone.",
+    "sentenceChi": "地震不是任何人的過錯。",
+    "category": "intermediate"
+  },
+  {
+    "word": "favor",
+    "phonetic": "ˈfeɪvər",
+    "pos": "n./v.",
+    "translation": "恩惠、支持",
+    "sentenceEng": "Could you do me a small favor?",
+    "sentenceChi": "你能幫我一個小忙嗎？",
+    "category": "intermediate"
+  },
+  {
+    "word": "favorite",
+    "phonetic": "ˈfeɪvərɪt",
+    "pos": "adj./n.",
+    "translation": "最喜愛的、最愛",
+    "sentenceEng": "Chocolate is her favorite dessert.",
+    "sentenceChi": "巧克力是她最喜愛的甜點。",
+    "category": "intermediate"
+  },
+  {
+    "word": "fear",
+    "phonetic": "fɪr",
+    "pos": "n./v.",
+    "translation": "恐懼、害怕",
+    "sentenceEng": "Public speaking creates fear in many people.",
+    "sentenceChi": "公眾演講讓許多人感到恐懼。",
+    "category": "intermediate"
+  },
+  {
+    "word": "gain",
+    "phonetic": "ɡeɪn",
+    "pos": "v./n.",
+    "translation": "獲得、增加",
+    "sentenceEng": "Students gain knowledge through experience.",
+    "sentenceChi": "學生透過經驗獲得知識。",
+    "category": "intermediate"
+  },
+  {
+    "word": "game",
+    "phonetic": "ɡeɪm",
+    "pos": "n.",
+    "translation": "遊戲、比賽",
+    "sentenceEng": "Educational games make learning enjoyable.",
+    "sentenceChi": "教育遊戲讓學習變得有趣。",
+    "category": "intermediate"
+  },
+  {
+    "word": "gas",
+    "phonetic": "ɡæs",
+    "pos": "n.",
+    "translation": "氣體、汽油",
+    "sentenceEng": "Natural gas provides energy for cooking.",
+    "sentenceChi": "天然氣為烹飪提供能源。",
+    "category": "intermediate"
+  },
+  {
+    "word": "general",
+    "phonetic": "ˈdʒenərəl",
+    "pos": "adj./n.",
+    "translation": "一般的、將軍",
+    "sentenceEng": "General knowledge helps in many situations.",
+    "sentenceChi": "常識在許多情況下都有幫助。",
+    "category": "intermediate"
+  },
+  {
+    "word": "generate",
+    "phonetic": "ˈdʒenəreɪt",
+    "pos": "v.",
+    "translation": "產生、生成",
+    "sentenceEng": "Solar panels generate clean electricity.",
+    "sentenceChi": "太陽能板產生清潔電力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "gift",
+    "phonetic": "ɡɪft",
+    "pos": "n.",
+    "translation": "禮物、天賦",
+    "sentenceEng": "Music is her natural gift.",
+    "sentenceChi": "音樂是她的天賦。",
+    "category": "intermediate"
+  },
+  {
+    "word": "girl",
+    "phonetic": "ɡɜːrl",
+    "pos": "n.",
+    "translation": "女孩、姑娘",
+    "sentenceEng": "The young girl excelled in mathematics.",
+    "sentenceChi": "年輕女孩在數學方面表現出色。",
+    "category": "intermediate"
+  },
+  {
+    "word": "glass",
+    "phonetic": "ɡlæs",
+    "pos": "n.",
+    "translation": "玻璃、眼鏡",
+    "sentenceEng": "The glass windows let in natural light.",
+    "sentenceChi": "玻璃窗讓自然光進入。",
+    "category": "intermediate"
+  },
+  {
+    "word": "global",
+    "phonetic": "ˈɡloʊbl",
+    "pos": "adj.",
+    "translation": "全球的、全世界的",
+    "sentenceEng": "Global warming affects everyone.",
+    "sentenceChi": "全球暖化影響每個人。",
+    "category": "intermediate"
+  },
+  {
+    "word": "goal",
+    "phonetic": "ɡoʊl",
+    "pos": "n.",
+    "translation": "目標、進球",
+    "sentenceEng": "Setting clear goals motivates students.",
+    "sentenceChi": "設定明確目標激勵學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "gold",
+    "phonetic": "ɡoʊld",
+    "pos": "n./adj.",
+    "translation": "黃金、金色的",
+    "sentenceEng": "The gold medal represents excellence.",
+    "sentenceChi": "金牌代表卓越。",
+    "category": "intermediate"
+  },
+  {
+    "word": "good",
+    "phonetic": "ɡʊd",
+    "pos": "adj.",
+    "translation": "好的、良好的",
+    "sentenceEng": "Good study habits improve academic performance.",
+    "sentenceChi": "良好的學習習慣提升學術表現。",
+    "category": "intermediate"
+  },
+  {
+    "word": "government",
+    "phonetic": "ˈɡʌvərnmənt",
+    "pos": "n.",
+    "translation": "政府",
+    "sentenceEng": "Democratic governments serve the people.",
+    "sentenceChi": "民主政府為人民服務。",
+    "category": "intermediate"
+  },
+  {
+    "word": "grade",
+    "phonetic": "ɡreɪd",
+    "pos": "n./v.",
+    "translation": "年級、評分",
+    "sentenceEng": "Teachers grade assignments fairly.",
+    "sentenceChi": "老師公平地評分作業。",
+    "category": "intermediate"
+  },
+  {
+    "word": "grand",
+    "phonetic": "ɡrænd",
+    "pos": "adj.",
+    "translation": "宏偉的、重大的",
+    "sentenceEng": "The grand library impressed all visitors.",
+    "sentenceChi": "宏偉的圖書館讓所有訪客印象深刻。",
+    "category": "intermediate"
+  },
+  {
+    "word": "great",
+    "phonetic": "ɡreɪt",
+    "pos": "adj.",
+    "translation": "偉大的、極好的",
+    "sentenceEng": "Great teachers inspire lifelong learning.",
+    "sentenceChi": "偉大的老師啟發終身學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "green",
+    "phonetic": "ɡriːn",
+    "pos": "adj./n.",
+    "translation": "綠色的、綠色",
+    "sentenceEng": "Green plants purify the air naturally.",
+    "sentenceChi": "綠色植物自然地淨化空氣。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ground",
+    "phonetic": "ɡraʊnd",
+    "pos": "n.",
+    "translation": "地面、根據",
+    "sentenceEng": "The playground ground was covered with grass.",
+    "sentenceChi": "操場地面覆蓋著草。",
+    "category": "intermediate"
+  },
+  {
+    "word": "group",
+    "phonetic": "ɡruːp",
+    "pos": "n./v.",
+    "translation": "群體、分組",
+    "sentenceEng": "Study groups enhance collaborative learning.",
+    "sentenceChi": "學習小組增強協作學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "grow",
+    "phonetic": "ɡroʊ",
+    "pos": "v.",
+    "translation": "成長、種植",
+    "sentenceEng": "Children grow physically and intellectually.",
+    "sentenceChi": "孩子在身體和智力上成長。",
+    "category": "intermediate"
+  },
+  {
+    "word": "guard",
+    "phonetic": "ɡɑːrd",
+    "pos": "n./v.",
+    "translation": "守衛、保護",
+    "sentenceEng": "Security guards protect school property.",
+    "sentenceChi": "保安人員保護學校財產。",
+    "category": "intermediate"
+  },
+  {
+    "word": "guess",
+    "phonetic": "ɡes",
+    "pos": "v./n.",
+    "translation": "猜測、推測",
+    "sentenceEng": "Students guess answers when uncertain.",
+    "sentenceChi": "學生不確定時會猜測答案。",
+    "category": "intermediate"
+  },
+  {
+    "word": "guest",
+    "phonetic": "ɡest",
+    "pos": "n.",
+    "translation": "客人、嘉賓",
+    "sentenceEng": "The guest speaker inspired the students.",
+    "sentenceChi": "客座講者啟發了學生們。",
+    "category": "intermediate"
+  },
+  {
+    "word": "habit",
+    "phonetic": "ˈhæbɪt",
+    "pos": "n.",
+    "translation": "習慣、嗜好",
+    "sentenceEng": "Good study habits improve academic performance.",
+    "sentenceChi": "良好的學習習慣提升學術表現。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hair",
+    "phonetic": "her",
+    "pos": "n.",
+    "translation": "頭髮、毛髮",
+    "sentenceEng": "She tied her long hair in a ponytail.",
+    "sentenceChi": "她把長髮紮成馬尾。",
+    "category": "intermediate"
+  },
+  {
+    "word": "half",
+    "phonetic": "hæf",
+    "pos": "n./adj.",
+    "translation": "一半、半個",
+    "sentenceEng": "Half the students passed the exam.",
+    "sentenceChi": "一半的學生通過了考試。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hall",
+    "phonetic": "hɔːl",
+    "pos": "n.",
+    "translation": "大廳、走廊",
+    "sentenceEng": "The assembly hall accommodated all students.",
+    "sentenceChi": "大會堂容納了所有學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hand",
+    "phonetic": "hænd",
+    "pos": "n.",
+    "translation": "手、指針",
+    "sentenceEng": "Skilled hands create beautiful artwork.",
+    "sentenceChi": "靈巧的雙手創造美麗的藝術作品。",
+    "category": "intermediate"
+  },
+  {
+    "word": "handle",
+    "phonetic": "ˈhændl",
+    "pos": "v./n.",
+    "translation": "處理、把手",
+    "sentenceEng": "Students learn to handle stress effectively.",
+    "sentenceChi": "學生學會有效地處理壓力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hang",
+    "phonetic": "hæŋ",
+    "pos": "v.",
+    "translation": "懸掛、吊",
+    "sentenceEng": "Students hang artwork on classroom walls.",
+    "sentenceChi": "學生將藝術作品掛在教室牆上。",
+    "category": "intermediate"
+  },
+  {
+    "word": "happen",
+    "phonetic": "ˈhæpən",
+    "pos": "v.",
+    "translation": "發生、出現",
+    "sentenceEng": "Learning breakthroughs happen with persistence.",
+    "sentenceChi": "學習突破在堅持下發生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hat",
+    "phonetic": "hæt",
+    "pos": "n.",
+    "translation": "帽子",
+    "sentenceEng": "She wore a hat to protect from sun.",
+    "sentenceChi": "她戴帽子防曬。",
+    "category": "intermediate"
+  },
+  {
+    "word": "have",
+    "phonetic": "hæv",
+    "pos": "v.",
+    "translation": "有、擁有",
+    "sentenceEng": "All students have equal learning opportunities.",
+    "sentenceChi": "所有學生都有平等的學習機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "head",
+    "phonetic": "hed",
+    "pos": "n./v.",
+    "translation": "",
+    "sentenceEng": "頭、領導",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "health",
+    "phonetic": "helθ",
+    "pos": "n.",
+    "translation": "健康",
+    "sentenceEng": "Regular exercise maintains good health.",
+    "sentenceChi": "定期運動維持良好健康。",
+    "category": "intermediate"
+  },
+  {
+    "word": "heart",
+    "phonetic": "hɑːrt",
+    "pos": "n.",
+    "translation": "心臟、心",
+    "sentenceEng": "A healthy heart pumps blood efficiently.",
+    "sentenceChi": "健康的心臟有效地泵血。",
+    "category": "intermediate"
+  },
+  {
+    "word": "heat",
+    "phonetic": "hiːt",
+    "pos": "n./v.",
+    "translation": "熱、加熱",
+    "sentenceEng": "The classroom heat made students sleepy.",
+    "sentenceChi": "教室的熱氣讓學生昏昏欲睡。",
+    "category": "intermediate"
+  },
+  {
+    "word": "heavy",
+    "phonetic": "ˈhevi",
+    "pos": "adj.",
+    "translation": "重的、嚴重的",
+    "sentenceEng": "Heavy textbooks strain students' backs.",
+    "sentenceChi": "沉重的教科書讓學生背部拉傷。",
+    "category": "intermediate"
+  },
+  {
+    "word": "height",
+    "phonetic": "haɪt",
+    "pos": "n.",
+    "translation": "高度、身高",
+    "sentenceEng": "The building's height impressed visitors.",
+    "sentenceChi": "建築物的高度讓訪客印象深刻。",
+    "category": "intermediate"
+  },
+  {
+    "word": "her",
+    "phonetic": "hər",
+    "pos": "pron.",
+    "translation": "她的、她",
+    "sentenceEng": "Her dedication inspired fellow students.",
+    "sentenceChi": "她的奉獻精神啟發了同學們。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hero",
+    "phonetic": "ˈhɪroʊ",
+    "pos": "n.",
+    "translation": "英雄、主角",
+    "sentenceEng": "Teachers are unsung heroes of society.",
+    "sentenceChi": "老師是社會的無名英雄。",
+    "category": "intermediate"
+  },
+  {
+    "word": "hide",
+    "phonetic": "haɪd",
+    "pos": "v.",
+    "translation": "隱藏、躲藏",
+    "sentenceEng": "Students cannot hide from their responsibilities.",
+    "sentenceChi": "學生無法逃避責任。",
+    "category": "intermediate"
+  },
+  {
+    "word": "keep",
+    "phonetic": "kiːp",
+    "pos": "v.",
+    "translation": "保持、維持",
+    "sentenceEng": "Students keep learning throughout their lives.",
+    "sentenceChi": "學生終生保持學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "key",
+    "phonetic": "kiː",
+    "pos": "n./adj.",
+    "translation": "鑰匙、關鍵的",
+    "sentenceEng": "Understanding is the key to effective learning.",
+    "sentenceChi": "理解是有效學習的關鍵。",
+    "category": "intermediate"
+  },
+  {
+    "word": "kick",
+    "phonetic": "kɪk",
+    "pos": "v./n.",
+    "translation": "踢、踢腿",
+    "sentenceEng": "Soccer players kick the ball skillfully.",
+    "sentenceChi": "足球運動員熟練地踢球。",
+    "category": "intermediate"
+  },
+  {
+    "word": "kid",
+    "phonetic": "kɪd",
+    "pos": "n.",
+    "translation": "小孩、孩子",
+    "sentenceEng": "Every kid deserves quality education.",
+    "sentenceChi": "每個孩子都應得到優質教育。",
+    "category": "intermediate"
+  },
+  {
+    "word": "kill",
+    "phonetic": "kɪl",
+    "pos": "v.",
+    "translation": "殺死、消除",
+    "sentenceEng": "Stress can kill motivation and creativity.",
+    "sentenceChi": "壓力會扼殺動機和創造力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "king",
+    "phonetic": "kɪŋ",
+    "pos": "n.",
+    "translation": "國王、王者",
+    "sentenceEng": "The chess king is the most important piece.",
+    "sentenceChi": "國際象棋中國王是最重要的棋子。",
+    "category": "intermediate"
+  },
+  {
+    "word": "knee",
+    "phonetic": "niː",
+    "pos": "n.",
+    "translation": "膝蓋",
+    "sentenceEng": "Basketball players protect their knees carefully.",
+    "sentenceChi": "籃球運動員小心保護膝蓋。",
+    "category": "intermediate"
+  },
+  {
+    "word": "knife",
+    "phonetic": "naɪf",
+    "pos": "n.",
+    "translation": "刀子、刀具",
+    "sentenceEng": "The knife must be handled safely.",
+    "sentenceChi": "刀子必須安全使用。",
+    "category": "intermediate"
+  },
+  {
+    "word": "knock",
+    "phonetic": "nɑːk",
+    "pos": "v./n.",
+    "translation": "敲、敲門",
+    "sentenceEng": "Students knock before entering the office.",
+    "sentenceChi": "學生進辦公室前先敲門。",
+    "category": "intermediate"
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "ˈnɑːlɪdʒ",
+    "pos": "n.",
+    "translation": "知識、學問",
+    "sentenceEng": "Knowledge empowers individuals to make better choices.",
+    "sentenceChi": "知識使個人能夠做出更好的選擇。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lack",
+    "phonetic": "læk",
+    "pos": "v./n.",
+    "translation": "缺乏、不足",
+    "sentenceEng": "Students should not lack access to resources.",
+    "sentenceChi": "學生不應該缺乏資源。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lady",
+    "phonetic": "ˈleɪdi",
+    "pos": "n.",
+    "translation": "女士、淑女",
+    "sentenceEng": "The lady donated books to the library.",
+    "sentenceChi": "女士向圖書館捐贈書籍。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lake",
+    "phonetic": "leɪk",
+    "pos": "n.",
+    "translation": "湖、湖泊",
+    "sentenceEng": "The school trip visited a beautiful lake.",
+    "sentenceChi": "學校旅行參觀了美麗的湖泊。",
+    "category": "intermediate"
+  },
+  {
+    "word": "land",
+    "phonetic": "lænd",
+    "pos": "n./v.",
+    "translation": "土地、著陸",
+    "sentenceEng": "Agricultural land produces food for society.",
+    "sentenceChi": "農業用地為社會生產糧食。",
+    "category": "intermediate"
+  },
+  {
+    "word": "large",
+    "phonetic": "lɑːrdʒ",
+    "pos": "adj.",
+    "translation": "大的、廣泛的",
+    "sentenceEng": "Large vocabularies improve communication skills.",
+    "sentenceChi": "豐富的詞彙提升溝通技巧。",
+    "category": "intermediate"
+  },
+  {
+    "word": "last",
+    "phonetic": "læst",
+    "pos": "adj./v.",
+    "translation": "最後的、持續",
+    "sentenceEng": "Good education benefits last a lifetime.",
+    "sentenceChi": "良好教育的益處持續一生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "law",
+    "phonetic": "lɔː",
+    "pos": "n.",
+    "translation": "法律、法則",
+    "sentenceEng": "Educational laws protect student rights.",
+    "sentenceChi": "教育法律保護學生權利。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lay",
+    "phonetic": "leɪ",
+    "pos": "v.",
+    "translation": "放置、躺下",
+    "sentenceEng": "Teachers lay the foundation for learning.",
+    "sentenceChi": "老師為學習奠定基礎。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lead",
+    "phonetic": "liːd",
+    "pos": "v./n.",
+    "translation": "領導、引導",
+    "sentenceEng": "Great teachers lead by example.",
+    "sentenceChi": "優秀的老師以身作則領導。",
+    "category": "intermediate"
+  },
+  {
+    "word": "leader",
+    "phonetic": "ˈliːdər",
+    "pos": "n.",
+    "translation": "領導者、領袖",
+    "sentenceEng": "Student leaders organize school activities.",
+    "sentenceChi": "學生領袖組織學校活動。",
+    "category": "intermediate"
+  },
+  {
+    "word": "least",
+    "phonetic": "liːst",
+    "pos": "adj./adv.",
+    "translation": "最少的、最小的",
+    "sentenceEng": "Every student needs at least basic education.",
+    "sentenceChi": "每個學生至少需要基礎教育。",
+    "category": "intermediate"
+  },
+  {
+    "word": "leave",
+    "phonetic": "liːv",
+    "pos": "v.",
+    "translation": "離開、留下",
+    "sentenceEng": "Students leave school with valuable skills.",
+    "sentenceChi": "學生帶著寶貴技能離開學校。",
+    "category": "intermediate"
+  },
+  {
+    "word": "left",
+    "phonetic": "left",
+    "pos": "adj./n.",
+    "translation": "左邊的、左側",
+    "sentenceEng": "Turn left at the library entrance.",
+    "sentenceChi": "在圖書館入口向左轉。",
+    "category": "intermediate"
+  },
+  {
+    "word": "leg",
+    "phonetic": "leɡ",
+    "pos": "n.",
+    "translation": "腿、支柱",
+    "sentenceEng": "Athletes strengthen their legs through training.",
+    "sentenceChi": "運動員通過訓練強化腿部。",
+    "category": "intermediate"
+  },
+  {
+    "word": "legal",
+    "phonetic": "ˈliːɡl",
+    "pos": "adj.",
+    "translation": "法律的、合法的",
+    "sentenceEng": "Legal education teaches about rights and duties.",
+    "sentenceChi": "法學教育教授權利和義務。",
+    "category": "intermediate"
+  },
+  {
+    "word": "less",
+    "phonetic": "les",
+    "pos": "adj./adv.",
+    "translation": "更少的、較少",
+    "sentenceEng": "Less homework allows more family time.",
+    "sentenceChi": "較少的作業允許更多家庭時間。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lesson",
+    "phonetic": "ˈlesn",
+    "pos": "n.",
+    "translation": "課程、教訓",
+    "sentenceEng": "Each lesson builds upon previous knowledge.",
+    "sentenceChi": "每堂課都建立在先前知識之上。",
+    "category": "intermediate"
+  },
+  {
+    "word": "let",
+    "phonetic": "let",
+    "pos": "v.",
+    "translation": "讓、允許",
+    "sentenceEng": "Teachers let students explore their interests.",
+    "sentenceChi": "老師讓學生探索興趣。",
+    "category": "intermediate"
+  },
+  {
+    "word": "letter",
+    "phonetic": "ˈletər",
+    "pos": "n.",
+    "translation": "字母、信件",
+    "sentenceEng": "Each letter has a specific sound.",
+    "sentenceChi": "每個字母都有特定的聲音。",
+    "category": "intermediate"
+  },
+  {
+    "word": "level",
+    "phonetic": "ˈlevl",
+    "pos": "n./adj.",
+    "translation": "水平、程度",
+    "sentenceEng": "Advanced level courses challenge students.",
+    "sentenceChi": "高級課程挑戰學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "library",
+    "phonetic": "ˈlaɪbreri",
+    "pos": "n.",
+    "translation": "圖書館",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "lie",
+    "phonetic": "laɪ",
+    "pos": "v./n.",
+    "translation": "說謊、躺下",
+    "sentenceEng": "Honesty means never telling a lie.",
+    "sentenceChi": "誠實意味著從不說謊。",
+    "category": "intermediate"
+  },
+  {
+    "word": "life",
+    "phonetic": "laɪf",
+    "pos": "n.",
+    "translation": "生活、生命",
+    "sentenceEng": "Education enriches life experiences.",
+    "sentenceChi": "教育豐富人生經歷。",
+    "category": "intermediate"
+  },
+  {
+    "word": "lift",
+    "phonetic": "lɪft",
+    "pos": "v./n.",
+    "translation": "舉起、電梯",
+    "sentenceEng": "Education lifts people out of poverty.",
+    "sentenceChi": "教育使人們擺脫貧困。",
+    "category": "intermediate"
+  },
+  {
+    "word": "light",
+    "phonetic": "laɪt",
+    "pos": "n./adj.",
+    "translation": "光、輕的",
+    "sentenceEng": "Natural light improves learning environments.",
+    "sentenceChi": "自然光改善學習環境。",
+    "category": "intermediate"
+  },
+  {
+    "word": "like",
+    "phonetic": "laɪk",
+    "pos": "v./prep.",
+    "translation": "喜歡、像",
+    "sentenceEng": "Students like interactive learning activities.",
+    "sentenceChi": "學生喜歡互動學習活動。",
+    "category": "intermediate"
+  },
+  {
+    "word": "name",
+    "phonetic": "neɪm",
+    "pos": "n./v.",
+    "translation": "名字、命名",
+    "sentenceEng": "Each student has a unique name and identity.",
+    "sentenceChi": "每個學生都有獨特的姓名和身分。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nation",
+    "phonetic": "ˈneɪʃn",
+    "pos": "n.",
+    "translation": "國家、民族",
+    "sentenceEng": "Education strengthens the nation's future.",
+    "sentenceChi": "教育強化國家的未來。",
+    "category": "intermediate"
+  },
+  {
+    "word": "natural",
+    "phonetic": "ˈnætʃərəl",
+    "pos": "adj.",
+    "translation": "自然的、天然的",
+    "sentenceEng": "Natural curiosity drives effective learning.",
+    "sentenceChi": "天然好奇心驅動有效學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nature",
+    "phonetic": "ˈneɪtʃər",
+    "pos": "n.",
+    "translation": "自然、本性",
+    "sentenceEng": "Understanding human nature helps teachers connect with students.",
+    "sentenceChi": "理解人性幫助教師與學生建立聯繫。",
+    "category": "intermediate"
+  },
+  {
+    "word": "near",
+    "phonetic": "nɪr",
+    "pos": "adj./prep.",
+    "translation": "接近的、靠近",
+    "sentenceEng": "The library is near the science building.",
+    "sentenceChi": "圖書館靠近科學大樓。",
+    "category": "intermediate"
+  },
+  {
+    "word": "necessary",
+    "phonetic": "ˈnesəseri",
+    "pos": "adj.",
+    "translation": "必要的、必需的",
+    "sentenceEng": "Regular practice is necessary for skill development.",
+    "sentenceChi": "定期練習對技能發展是必要的。",
+    "category": "intermediate"
+  },
+  {
+    "word": "neck",
+    "phonetic": "nek",
+    "pos": "n.",
+    "translation": "脖子、頸部",
+    "sentenceEng": "Students stretch their necks during breaks.",
+    "sentenceChi": "學生在休息時伸展脖子。",
+    "category": "intermediate"
+  },
+  {
+    "word": "need",
+    "phonetic": "niːd",
+    "pos": "v./n.",
+    "translation": "需要、需求",
+    "sentenceEng": "Students need supportive learning environments.",
+    "sentenceChi": "學生需要支持性學習環境。",
+    "category": "intermediate"
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "ˈneɪbər",
+    "pos": "n.",
+    "translation": "鄰居、鄰近的",
+    "sentenceEng": "School neighbors support educational activities.",
+    "sentenceChi": "學校鄰居支持教育活動。",
+    "category": "intermediate"
+  },
+  {
+    "word": "neither",
+    "phonetic": "ˈniːðər",
+    "pos": "det./conj.",
+    "translation": "兩者都不、也不",
+    "sentenceEng": "Neither teacher nor student gave up easily.",
+    "sentenceChi": "老師和學生都沒有輕易放棄。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nerve",
+    "phonetic": "nɜːrv",
+    "pos": "n.",
+    "translation": "神經、勇氣",
+    "sentenceEng": "It takes nerve to speak in public.",
+    "sentenceChi": "公開演講需要勇氣。",
+    "category": "intermediate"
+  },
+  {
+    "word": "net",
+    "phonetic": "net",
+    "pos": "n./adj.",
+    "translation": "網、網路的",
+    "sentenceEng": "The internet net connects global learners.",
+    "sentenceChi": "網際網路連接全球學習者。",
+    "category": "intermediate"
+  },
+  {
+    "word": "network",
+    "phonetic": "ˈnetwɜːrk",
+    "pos": "n./v.",
+    "translation": "網絡、建立關係",
+    "sentenceEng": "Social networks enhance learning opportunities.",
+    "sentenceChi": "社交網絡增強學習機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "neutral",
+    "phonetic": "ˈnuːtrəl",
+    "pos": "adj.",
+    "translation": "中立的、中性的",
+    "sentenceEng": "Teachers remain neutral in student conflicts.",
+    "sentenceChi": "老師在學生衝突中保持中立。",
+    "category": "intermediate"
+  },
+  {
+    "word": "news",
+    "phonetic": "nuːz",
+    "pos": "n.",
+    "translation": "新聞、消息",
+    "sentenceEng": "Current news connects classroom learning to real world.",
+    "sentenceChi": "時事新聞將課堂學習與現實世界聯繫起來。",
+    "category": "intermediate"
+  },
+  {
+    "word": "next",
+    "phonetic": "nekst",
+    "pos": "adj./adv.",
+    "translation": "下一個、接下來",
+    "sentenceEng": "Next semester offers advanced courses.",
+    "sentenceChi": "下學期提供高級課程。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nice",
+    "phonetic": "naɪs",
+    "pos": "adj.",
+    "translation": "好的、令人愉快的",
+    "sentenceEng": "Nice weather encourages outdoor learning.",
+    "sentenceChi": "好天氣鼓勵戶外學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nine",
+    "phonetic": "naɪn",
+    "pos": "num.",
+    "translation": "九、九個",
+    "sentenceEng": "The course lasts nine months.",
+    "sentenceChi": "課程持續九個月。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nobody",
+    "phonetic": "ˈnoʊbɑːdi",
+    "pos": "pron.",
+    "translation": "沒有人、無人",
+    "sentenceEng": "Nobody should be denied education.",
+    "sentenceChi": "沒有人應該被剝奪教育。",
+    "category": "intermediate"
+  },
+  {
+    "word": "noise",
+    "phonetic": "nɔɪz",
+    "pos": "n.",
+    "translation": "噪音、雜音",
+    "sentenceEng": "Excessive noise disrupts concentration.",
+    "sentenceChi": "過多噪音干擾專注力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "none",
+    "phonetic": "nʌn",
+    "pos": "pron.",
+    "translation": "沒有、無一",
+    "sentenceEng": "None of the students failed the test.",
+    "sentenceChi": "學生中沒有人考試不及格。",
+    "category": "intermediate"
+  },
+  {
+    "word": "normal",
+    "phonetic": "ˈnɔːrml",
+    "pos": "adj.",
+    "translation": "正常的、標準的",
+    "sentenceEng": "Making mistakes is normal in the learning process.",
+    "sentenceChi": "在學習過程中犯錯是正常的。",
+    "category": "intermediate"
+  },
+  {
+    "word": "north",
+    "phonetic": "nɔːrθ",
+    "pos": "n./adj.",
+    "translation": "北方、北部的",
+    "sentenceEng": "The north campus has new facilities.",
+    "sentenceChi": "北校區有新設施。",
+    "category": "intermediate"
+  },
+  {
+    "word": "nose",
+    "phonetic": "noʊz",
+    "pos": "n.",
+    "translation": "鼻子",
+    "sentenceEng": "Students cover their nose when sneezing.",
+    "sentenceChi": "學生打噴嚏時摀住鼻子。",
+    "category": "intermediate"
+  },
+  {
+    "word": "object",
+    "phonetic": "ˈɑːbdʒɪkt",
+    "pos": "n.",
+    "translation": "物體、目標",
+    "sentenceEng": "Learning objects should engage multiple senses.",
+    "sentenceChi": "學習物件應該調動多種感官。",
+    "category": "intermediate"
+  },
+  {
+    "word": "observe",
+    "phonetic": "əbˈzɜːrv",
+    "pos": "v.",
+    "translation": "觀察、遵守",
+    "sentenceEng": "Scientists observe phenomena carefully.",
+    "sentenceChi": "科學家仔細觀察現象。",
+    "category": "intermediate"
+  },
+  {
+    "word": "obtain",
+    "phonetic": "əbˈteɪn",
+    "pos": "v.",
+    "translation": "獲得、取得",
+    "sentenceEng": "Students obtain knowledge through various methods.",
+    "sentenceChi": "學生通過各種方法獲得知識。",
+    "category": "intermediate"
+  },
+  {
+    "word": "obvious",
+    "phonetic": "ˈɑːbviəs",
+    "pos": "adj.",
+    "translation": "明顯的、顯而易見的",
+    "sentenceEng": "The benefits of education are obvious to everyone.",
+    "sentenceChi": "教育的益處對每個人都是顯而易見的。",
+    "category": "intermediate"
+  },
+  {
+    "word": "occasion",
+    "phonetic": "əˈkeɪʒn",
+    "pos": "n.",
+    "translation": "場合、機會",
+    "sentenceEng": "Graduation is a special occasion for families.",
+    "sentenceChi": "畢業是家庭的特殊場合。",
+    "category": "intermediate"
+  },
+  {
+    "word": "occur",
+    "phonetic": "əˈkɜːr",
+    "pos": "v.",
+    "translation": "發生、出現",
+    "sentenceEng": "Learning breakthroughs occur through persistent effort.",
+    "sentenceChi": "學習突破通過持續努力而發生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ocean",
+    "phonetic": "ˈoʊʃn",
+    "pos": "n.",
+    "translation": "海洋",
+    "sentenceEng": "Marine biology students study ocean ecosystems.",
+    "sentenceChi": "海洋生物學學生研究海洋生態系統。",
+    "category": "intermediate"
+  },
+  {
+    "word": "odd",
+    "phonetic": "ɑːd",
+    "pos": "adj.",
+    "translation": "奇怪的、奇數的",
+    "sentenceEng": "Odd numbers include 1, 3, and 5.",
+    "sentenceChi": "奇數包括1、3和5。",
+    "category": "intermediate"
+  },
+  {
+    "word": "of",
+    "phonetic": "ʌv",
+    "pos": "prep.",
+    "translation": "的、屬於",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "offer",
+    "phonetic": "ˈɔːfər",
+    "pos": "v./n.",
+    "translation": "提供、提議",
+    "sentenceEng": "Universities offer diverse academic programs.",
+    "sentenceChi": "大學提供多樣化的學術項目。",
+    "category": "intermediate"
+  },
+  {
+    "word": "office",
+    "phonetic": "ˈɔːfɪs",
+    "pos": "n.",
+    "translation": "辦公室、職務",
+    "sentenceEng": "The principal's office handles student issues.",
+    "sentenceChi": "校長辦公室處理學生問題。",
+    "category": "intermediate"
+  },
+  {
+    "word": "oil",
+    "phonetic": "ɔɪl",
+    "pos": "n.",
+    "translation": "油、石油",
+    "sentenceEng": "Art students use oil paints for portraits.",
+    "sentenceChi": "藝術學生使用油畫顏料畫肖像。",
+    "category": "intermediate"
+  },
+  {
+    "word": "once",
+    "phonetic": "wʌns",
+    "pos": "adv.",
+    "translation": "一次、曾經",
+    "sentenceEng": "Once students master basics, advanced topics follow.",
+    "sentenceChi": "學生一旦掌握基礎，高級主題就會跟上。",
+    "category": "intermediate"
+  },
+  {
+    "word": "one",
+    "phonetic": "wʌn",
+    "pos": "num./pron.",
+    "translation": "一、一個",
+    "sentenceEng": "One teacher can impact many lives.",
+    "sentenceChi": "一位老師可以影響許多生命。",
+    "category": "intermediate"
+  },
+  {
+    "word": "operate",
+    "phonetic": "ˈɑːpəreɪt",
+    "pos": "v.",
+    "translation": "操作、運行",
+    "sentenceEng": "Students learn to operate laboratory equipment.",
+    "sentenceChi": "學生學會操作實驗室設備。",
+    "category": "intermediate"
+  },
+  {
+    "word": "opinion",
+    "phonetic": "əˈpɪnjən",
+    "pos": "n.",
+    "translation": "意見、觀點",
+    "sentenceEng": "Students express their opinions in debates.",
+    "sentenceChi": "學生在辯論中表達觀點。",
+    "category": "intermediate"
+  },
+  {
+    "word": "opportunity",
+    "phonetic": "ˌɑːpərˈtuːnəti",
+    "pos": "n.",
+    "translation": "機會、時機",
+    "sentenceEng": "Education creates opportunities for personal growth.",
+    "sentenceChi": "教育為個人成長創造機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "opposite",
+    "phonetic": "ˈɑːpəzɪt",
+    "pos": "adj./n.",
+    "translation": "相反的、對面",
+    "sentenceEng": "Students sit opposite each other during discussions.",
+    "sentenceChi": "學生在討論時面對面坐著。",
+    "category": "intermediate"
+  },
+  {
+    "word": "option",
+    "phonetic": "ˈɑːpʃn",
+    "pos": "n.",
+    "translation": "選擇、選項",
+    "sentenceEng": "Students have many course options available.",
+    "sentenceChi": "學生有很多課程選擇。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pack",
+    "phonetic": "pæk",
+    "pos": "v./n.",
+    "translation": "打包、包裝",
+    "sentenceEng": "Students pack books for the field trip.",
+    "sentenceChi": "學生為實地考察打包書籍。",
+    "category": "intermediate"
+  },
+  {
+    "word": "page",
+    "phonetic": "peɪdʒ",
+    "pos": "n.",
+    "translation": "頁面、頁數",
+    "sentenceEng": "Students read every page of the assignment.",
+    "sentenceChi": "學生閱讀作業的每一頁。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pain",
+    "phonetic": "peɪn",
+    "pos": "n.",
+    "translation": "疼痛、痛苦",
+    "sentenceEng": "Growing pains are part of learning.",
+    "sentenceChi": "成長的痛苦是學習的一部分。",
+    "category": "intermediate"
+  },
+  {
+    "word": "paint",
+    "phonetic": "peɪnt",
+    "pos": "n./v.",
+    "translation": "油漆、繪畫",
+    "sentenceEng": "Art students paint beautiful landscapes.",
+    "sentenceChi": "藝術學生繪畫美麗的風景。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pair",
+    "phonetic": "per",
+    "pos": "n./v.",
+    "translation": "一對、配對",
+    "sentenceEng": "Students work in pairs for projects.",
+    "sentenceChi": "學生成對進行項目工作。",
+    "category": "intermediate"
+  },
+  {
+    "word": "paper",
+    "phonetic": "ˈpeɪpər",
+    "pos": "n.",
+    "translation": "紙張、論文",
+    "sentenceEng": "Students write research papers carefully.",
+    "sentenceChi": "學生仔細撰寫研究論文。",
+    "category": "intermediate"
+  },
+  {
+    "word": "parent",
+    "phonetic": "ˈperənt",
+    "pos": "n.",
+    "translation": "父母、親代",
+    "sentenceEng": "Parents support their children's education.",
+    "sentenceChi": "父母支持孩子的教育。",
+    "category": "intermediate"
+  },
+  {
+    "word": "park",
+    "phonetic": "pɑːrk",
+    "pos": "n./v.",
+    "translation": "公園、停車",
+    "sentenceEng": "Students study in the quiet park.",
+    "sentenceChi": "學生在安靜的公園學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "part",
+    "phonetic": "pɑːrt",
+    "pos": "n.",
+    "translation": "部分、角色",
+    "sentenceEng": "Each student plays a part in class success.",
+    "sentenceChi": "每個學生在班級成功中扮演角色。",
+    "category": "intermediate"
+  },
+  {
+    "word": "particular",
+    "phonetic": "pərˈtɪkjələr",
+    "pos": "adj.",
+    "translation": "特別的、特定的",
+    "sentenceEng": "This particular method works well.",
+    "sentenceChi": "這種特定方法效果很好。",
+    "category": "intermediate"
+  },
+  {
+    "word": "partner",
+    "phonetic": "ˈpɑːrtnər",
+    "pos": "n.",
+    "translation": "夥伴、搭檔",
+    "sentenceEng": "Study partners help each other learn.",
+    "sentenceChi": "學習夥伴互相幫助學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "party",
+    "phonetic": "ˈpɑːrti",
+    "pos": "n.",
+    "translation": "聚會、政黨",
+    "sentenceEng": "The graduation party celebrated achievements.",
+    "sentenceChi": "畢業聚會慶祝成就。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pass",
+    "phonetic": "pæs",
+    "pos": "v./n.",
+    "translation": "通過、及格",
+    "sentenceEng": "All students hope to pass their exams.",
+    "sentenceChi": "所有學生都希望通過考試。",
+    "category": "intermediate"
+  },
+  {
+    "word": "past",
+    "phonetic": "pæst",
+    "pos": "adj./n.",
+    "translation": "過去的、過去",
+    "sentenceEng": "Students learn from past experiences.",
+    "sentenceChi": "學生從過去的經驗中學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "path",
+    "phonetic": "pæθ",
+    "pos": "n.",
+    "translation": "道路、路徑",
+    "sentenceEng": "Education opens many career paths.",
+    "sentenceChi": "教育開啟許多職業道路。",
+    "category": "intermediate"
+  },
+  {
+    "word": "patient",
+    "phonetic": "ˈpeɪʃnt",
+    "pos": "adj./n.",
+    "translation": "耐心的、病人",
+    "sentenceEng": "Patient teachers help struggling students.",
+    "sentenceChi": "耐心的老師幫助有困難的學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pattern",
+    "phonetic": "ˈpætərn",
+    "pos": "n.",
+    "translation": "模式、圖案",
+    "sentenceEng": "Recognizing patterns accelerates language learning.",
+    "sentenceChi": "識別模式加速語言學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pay",
+    "phonetic": "peɪ",
+    "pos": "v./n.",
+    "translation": "支付、薪水",
+    "sentenceEng": "Hard work pays off in education.",
+    "sentenceChi": "在教育中努力工作會有回報。",
+    "category": "intermediate"
+  },
+  {
+    "word": "peace",
+    "phonetic": "piːs",
+    "pos": "n.",
+    "translation": "和平、平靜",
+    "sentenceEng": "The library provides peace for studying.",
+    "sentenceChi": "圖書館為學習提供平靜。",
+    "category": "intermediate"
+  },
+  {
+    "word": "pen",
+    "phonetic": "pen",
+    "pos": "n.",
+    "translation": "筆、鋼筆",
+    "sentenceEng": "Students write notes with a pen.",
+    "sentenceChi": "學生用筆做筆記。",
+    "category": "intermediate"
+  },
+  {
+    "word": "people",
+    "phonetic": "ˈpiːpl",
+    "pos": "n.",
+    "translation": "人們、民族",
+    "sentenceEng": "Education empowers people to improve their lives.",
+    "sentenceChi": "教育使人們能夠改善生活。",
+    "category": "intermediate"
+  },
+  {
+    "word": "perfect",
+    "phonetic": "ˈpɜːrfɪkt",
+    "pos": "adj.",
+    "translation": "完美的、理想的",
+    "sentenceEng": "Perfect pronunciation requires continuous practice.",
+    "sentenceChi": "完美發音需要持續練習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "perform",
+    "phonetic": "pərˈfɔːrm",
+    "pos": "v.",
+    "translation": "表演、執行",
+    "sentenceEng": "Students perform well with proper preparation.",
+    "sentenceChi": "學生在適當準備下表現良好。",
+    "category": "intermediate"
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "pərˈhæps",
+    "pos": "adv.",
+    "translation": "也許、可能",
+    "sentenceEng": "Perhaps the most important skill is learning how to learn.",
+    "sentenceChi": "也許最重要的技能是學會如何學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "period",
+    "phonetic": "ˈpɪriəd",
+    "pos": "n.",
+    "translation": "時期、句號",
+    "sentenceEng": "The study period lasts two hours.",
+    "sentenceChi": "學習時間持續兩小時。",
+    "category": "intermediate"
+  },
+  {
+    "word": "quality",
+    "phonetic": "ˈkwɑːləti",
+    "pos": "n.",
+    "translation": "質量、品質",
+    "sentenceEng": "Quality education requires skilled teachers and resources.",
+    "sentenceChi": "優質教育需要技能嫻熟的教師和資源。",
+    "category": "intermediate"
+  },
+  {
+    "word": "question",
+    "phonetic": "ˈkwestʃən",
+    "pos": "n./v.",
+    "translation": "問題、質疑",
+    "sentenceEng": "Asking good questions deepens understanding.",
+    "sentenceChi": "提出好問題加深理解。",
+    "category": "intermediate"
+  },
+  {
+    "word": "quick",
+    "phonetic": "kwɪk",
+    "pos": "adj.",
+    "translation": "快速的、敏捷的",
+    "sentenceEng": "Quick learners often use effective study strategies.",
+    "sentenceChi": "快速學習者通常使用有效的學習策略。",
+    "category": "intermediate"
+  },
+  {
+    "word": "quiet",
+    "phonetic": "ˈkwaɪət",
+    "pos": "adj./n.",
+    "translation": "安靜的、寧靜",
+    "sentenceEng": "Quiet environments enhance concentration.",
+    "sentenceChi": "安靜的環境增強專注力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "quite",
+    "phonetic": "kwaɪt",
+    "pos": "adv.",
+    "translation": "相當、完全",
+    "sentenceEng": "Mastering vocabulary is quite challenging but rewarding.",
+    "sentenceChi": "掌握詞彙相當具有挑戰性但很有回報。",
+    "category": "intermediate"
+  },
+  {
+    "word": "race",
+    "phonetic": "reɪs",
+    "pos": "n./v.",
+    "translation": "種族、賽跑",
+    "sentenceEng": "Students of every race deserve equal opportunities.",
+    "sentenceChi": "每個種族的學生都應得到平等機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "radio",
+    "phonetic": "ˈreɪdioʊ",
+    "pos": "n.",
+    "translation": "收音機、無線電",
+    "sentenceEng": "Educational radio programs reach remote areas.",
+    "sentenceChi": "教育廣播節目到達偏遠地區。",
+    "category": "intermediate"
+  },
+  {
+    "word": "raise",
+    "phonetic": "reɪz",
+    "pos": "v./n.",
+    "translation": "提高、舉起",
+    "sentenceEng": "Good teachers raise student expectations.",
+    "sentenceChi": "好老師提高學生期望。",
+    "category": "intermediate"
+  },
+  {
+    "word": "range",
+    "phonetic": "reɪndʒ",
+    "pos": "n./v.",
+    "translation": "範圍、變化",
+    "sentenceEng": "Vocabulary ranges from basic to advanced levels.",
+    "sentenceChi": "詞彙從基礎到高級水平都有。",
+    "category": "intermediate"
+  },
+  {
+    "word": "rate",
+    "phonetic": "reɪt",
+    "pos": "n./v.",
+    "translation": "比率、評級",
+    "sentenceEng": "Learning rates vary among different students.",
+    "sentenceChi": "學習速度在不同學生之間有差異。",
+    "category": "intermediate"
+  },
+  {
+    "word": "rather",
+    "phonetic": "ˈræðər",
+    "pos": "adv.",
+    "translation": "相當、寧可",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "reach",
+    "phonetic": "riːtʃ",
+    "pos": "v.",
+    "translation": "到達、達到",
+    "sentenceEng": "Persistent effort helps students reach their goals.",
+    "sentenceChi": "持續努力幫助學生達到目標。",
+    "category": "intermediate"
+  },
+  {
+    "word": "ready",
+    "phonetic": "ˈredi",
+    "pos": "adj.",
+    "translation": "準備好的、樂意的",
+    "sentenceEng": "Students are ready for new challenges.",
+    "sentenceChi": "學生為新挑戰做好準備。",
+    "category": "intermediate"
+  },
+  {
+    "word": "real",
+    "phonetic": "riːl",
+    "pos": "adj.",
+    "translation": "真實的、實際的",
+    "sentenceEng": "Real applications make abstract concepts concrete.",
+    "sentenceChi": "實際應用使抽象概念具體化。",
+    "category": "intermediate"
+  },
+  {
+    "word": "reason",
+    "phonetic": "ˈriːzn",
+    "pos": "n./v.",
+    "translation": "原因、推理",
+    "sentenceEng": "Understanding the reason behind rules improves compliance.",
+    "sentenceChi": "理解規則背後的原因提高遵守性。",
+    "category": "intermediate"
+  },
+  {
+    "word": "receive",
+    "phonetic": "rɪˈsiːv",
+    "pos": "v.",
+    "translation": "接收、獲得",
+    "sentenceEng": "Students receive feedback to improve their performance.",
+    "sentenceChi": "學生接受反饋以提升表現。",
+    "category": "intermediate"
+  },
+  {
+    "word": "recent",
+    "phonetic": "ˈriːsnt",
+    "pos": "adj.",
+    "translation": "最近的、近期的",
+    "sentenceEng": "Recent research supports new teaching methods.",
+    "sentenceChi": "最近的研究支持新的教學方法。",
+    "category": "intermediate"
+  },
+  {
+    "word": "recognize",
+    "phonetic": "ˈrekəɡnaɪz",
+    "pos": "v.",
+    "translation": "認出、承認",
+    "sentenceEng": "Teachers recognize each student's unique talents.",
+    "sentenceChi": "老師認識到每個學生的獨特才能。",
+    "category": "intermediate"
+  },
+  {
+    "word": "record",
+    "phonetic": "ˈrekərd",
+    "pos": "n./v.",
+    "translation": "記錄、錄音",
+    "sentenceEng": "Keeping learning records tracks progress over time.",
+    "sentenceChi": "保持學習記錄追蹤長期進步。",
+    "category": "intermediate"
+  },
+  {
+    "word": "red",
+    "phonetic": "red",
+    "pos": "adj./n.",
+    "translation": "紅色的、紅色",
+    "sentenceEng": "The red pen marks important corrections.",
+    "sentenceChi": "紅筆標記重要的修正。",
+    "category": "intermediate"
+  },
+  {
+    "word": "reduce",
+    "phonetic": "rɪˈduːs",
+    "pos": "v.",
+    "translation": "減少、降低",
+    "sentenceEng": "Study groups reduce individual workload stress.",
+    "sentenceChi": "學習小組減少個人工作負荷壓力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "refer",
+    "phonetic": "rɪˈfɜːr",
+    "pos": "v.",
+    "translation": "提及、參考",
+    "sentenceEng": "Students refer to textbooks for information.",
+    "sentenceChi": "學生參考教科書獲取信息。",
+    "category": "intermediate"
+  },
+  {
+    "word": "reflect",
+    "phonetic": "rɪˈflekt",
+    "pos": "v.",
+    "translation": "反映、反思",
+    "sentenceEng": "Good students reflect on their learning progress.",
+    "sentenceChi": "好學生反思學習進度。",
+    "category": "intermediate"
+  },
+  {
+    "word": "region",
+    "phonetic": "ˈriːdʒən",
+    "pos": "n.",
+    "translation": "地區、區域",
+    "sentenceEng": "Each region has different educational needs.",
+    "sentenceChi": "每個地區都有不同的教育需求。",
+    "category": "intermediate"
+  },
+  {
+    "word": "relate",
+    "phonetic": "rɪˈleɪt",
+    "pos": "v.",
+    "translation": "相關、敘述",
+    "sentenceEng": "Students relate new knowledge to previous learning.",
+    "sentenceChi": "學生將新知識與先前學習聯繫起來。",
+    "category": "intermediate"
+  },
+  {
+    "word": "relationship",
+    "phonetic": "rɪˈleɪʃnʃɪp",
+    "pos": "n.",
+    "translation": "關係、關聯",
+    "sentenceEng": "Teacher-student relationships affect learning outcomes.",
+    "sentenceChi": "師生關係影響學習成果。",
+    "category": "intermediate"
+  },
+  {
+    "word": "remain",
+    "phonetic": "rɪˈmeɪn",
+    "pos": "v.",
+    "translation": "保持、剩餘",
+    "sentenceEng": "Students remain focused during long lectures.",
+    "sentenceChi": "學生在長時間講座中保持專注。",
+    "category": "intermediate"
+  },
+  {
+    "word": "remember",
+    "phonetic": "rɪˈmembər",
+    "pos": "v.",
+    "translation": "記住、回憶",
+    "sentenceEng": "Students remember information better through active engagement.",
+    "sentenceChi": "學生通過積極參與更好地記住信息。",
+    "category": "intermediate"
+  },
+  {
+    "word": "safe",
+    "phonetic": "seɪf",
+    "pos": "adj./n.",
+    "translation": "安全的、保險箱",
+    "sentenceEng": "Schools ensure students feel safe and protected.",
+    "sentenceChi": "學校確保學生感到安全和受保護。",
+    "category": "intermediate"
+  },
+  {
+    "word": "same",
+    "phonetic": "seɪm",
+    "pos": "adj./pron.",
+    "translation": "相同的、同樣的",
+    "sentenceEng": "All students receive the same opportunities.",
+    "sentenceChi": "所有學生都獲得相同的機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "save",
+    "phonetic": "seɪv",
+    "pos": "v.",
+    "translation": "拯救、節省",
+    "sentenceEng": "Education saves people from ignorance.",
+    "sentenceChi": "教育拯救人們免於無知。",
+    "category": "intermediate"
+  },
+  {
+    "word": "say",
+    "phonetic": "seɪ",
+    "pos": "v.",
+    "translation": "說、講",
+    "sentenceEng": "Students say their opinions freely.",
+    "sentenceChi": "學生自由地表達意見。",
+    "category": "intermediate"
+  },
+  {
+    "word": "scale",
+    "phonetic": "skeɪl",
+    "pos": "n./v.",
+    "translation": "規模、稱重",
+    "sentenceEng": "Educational programs operate on different scales.",
+    "sentenceChi": "教育項目以不同規模運作。",
+    "category": "intermediate"
+  },
+  {
+    "word": "scene",
+    "phonetic": "siːn",
+    "pos": "n.",
+    "translation": "場景、景象",
+    "sentenceEng": "The graduation scene moved parents to tears.",
+    "sentenceChi": "畢業場景讓父母感動落淚。",
+    "category": "intermediate"
+  },
+  {
+    "word": "science",
+    "phonetic": "ˈsaɪəns",
+    "pos": "n.",
+    "translation": "科學、學科",
+    "sentenceEng": "Science education develops analytical thinking skills.",
+    "sentenceChi": "科學教育發展分析思維技能。",
+    "category": "intermediate"
+  },
+  {
+    "word": "score",
+    "phonetic": "skɔːr",
+    "pos": "n./v.",
+    "translation": "分數、得分",
+    "sentenceEng": "Students score higher with proper preparation.",
+    "sentenceChi": "學生通過適當準備獲得更高分數。",
+    "category": "intermediate"
+  },
+  {
+    "word": "sea",
+    "phonetic": "siː",
+    "pos": "n.",
+    "translation": "海、海洋",
+    "sentenceEng": "Marine biology explores sea life diversity.",
+    "sentenceChi": "海洋生物學探索海洋生物多樣性。",
+    "category": "intermediate"
+  },
+  {
+    "word": "season",
+    "phonetic": "ˈsiːzn",
+    "pos": "n.",
+    "translation": "季節、賽季",
+    "sentenceEng": "Each season brings different learning opportunities.",
+    "sentenceChi": "每個季節都帶來不同的學習機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "seat",
+    "phonetic": "siːt",
+    "pos": "n./v.",
+    "translation": "座位、就座",
+    "sentenceEng": "Students take their seats before class begins.",
+    "sentenceChi": "學生在上課前就座。",
+    "category": "intermediate"
+  },
+  {
+    "word": "second",
+    "phonetic": "ˈsekənd",
+    "pos": "num./adj.",
+    "translation": "第二、秒",
+    "sentenceEng": "The second semester focuses on advanced topics.",
+    "sentenceChi": "第二學期專注於高級主題。",
+    "category": "intermediate"
+  },
+  {
+    "word": "section",
+    "phonetic": "ˈsekʃn",
+    "pos": "n.",
+    "translation": "部分、章節",
+    "sentenceEng": "Each textbook section covers specific concepts.",
+    "sentenceChi": "教科書的每個章節涵蓋特定概念。",
+    "category": "intermediate"
+  },
+  {
+    "word": "seek",
+    "phonetic": "siːk",
+    "pos": "v.",
+    "translation": "尋求、追求",
+    "sentenceEng": "Students seek knowledge and understanding.",
+    "sentenceChi": "學生尋求知識和理解。",
+    "category": "intermediate"
+  },
+  {
+    "word": "seem",
+    "phonetic": "siːm",
+    "pos": "v.",
+    "translation": "似乎、看起來",
+    "sentenceEng": "Difficult concepts seem easier with practice.",
+    "sentenceChi": "困難的概念通過練習看起來更容易。",
+    "category": "intermediate"
+  },
+  {
+    "word": "sense",
+    "phonetic": "sens",
+    "pos": "n./v.",
+    "translation": "感覺、理解",
+    "sentenceEng": "Students develop a sense of responsibility.",
+    "sentenceChi": "學生發展責任感。",
+    "category": "intermediate"
+  },
+  {
+    "word": "serious",
+    "phonetic": "ˈsɪriəs",
+    "pos": "adj.",
+    "translation": "嚴重的、認真的",
+    "sentenceEng": "Serious students achieve better results.",
+    "sentenceChi": "認真的學生取得更好的結果。",
+    "category": "intermediate"
+  },
+  {
+    "word": "serve",
+    "phonetic": "sɜːrv",
+    "pos": "v.",
+    "translation": "服務、供應",
+    "sentenceEng": "Education serves society's long-term needs.",
+    "sentenceChi": "教育服務社會的長期需求。",
+    "category": "intermediate"
+  },
+  {
+    "word": "service",
+    "phonetic": "ˈsɜːrvɪs",
+    "pos": "n.",
+    "translation": "服務、服務業",
+    "sentenceEng": "School service programs benefit communities.",
+    "sentenceChi": "學校服務項目造福社區。",
+    "category": "intermediate"
+  },
+  {
+    "word": "set",
+    "phonetic": "set",
+    "pos": "v./n.",
+    "translation": "設置、一套",
+    "sentenceEng": "Teachers set clear expectations for students.",
+    "sentenceChi": "老師為學生設定明確期望。",
+    "category": "intermediate"
+  },
+  {
+    "word": "several",
+    "phonetic": "ˈsevrəl",
+    "pos": "det./pron.",
+    "translation": "幾個、數個",
+    "sentenceEng": "Several methods improve learning effectiveness.",
+    "sentenceChi": "幾種方法提高學習效果。",
+    "category": "intermediate"
+  },
+  {
+    "word": "talk",
+    "phonetic": "tɔːk",
+    "pos": "v./n.",
+    "translation": "談話、講話",
+    "sentenceEng": "Students talk about their future goals.",
+    "sentenceChi": "學生談論未來目標。",
+    "category": "intermediate"
+  },
+  {
+    "word": "task",
+    "phonetic": "tæsk",
+    "pos": "n.",
+    "translation": "任務、工作",
+    "sentenceEng": "Each task builds essential skills.",
+    "sentenceChi": "每個任務都建立基本技能。",
+    "category": "intermediate"
+  },
+  {
+    "word": "tax",
+    "phonetic": "tæks",
+    "pos": "n./v.",
+    "translation": "稅、徵稅",
+    "sentenceEng": "Education funding comes from tax revenue.",
+    "sentenceChi": "教育資金來自稅收。",
+    "category": "intermediate"
+  },
+  {
+    "word": "team",
+    "phonetic": "tiːm",
+    "pos": "n.",
+    "translation": "團隊、小組",
+    "sentenceEng": "Project teams collaborate effectively.",
+    "sentenceChi": "項目團隊有效合作。",
+    "category": "intermediate"
+  },
+  {
+    "word": "technology",
+    "phonetic": "tekˈnɑːlədʒi",
+    "pos": "n.",
+    "translation": "技術、科技",
+    "sentenceEng": "Educational technology transforms traditional learning methods.",
+    "sentenceChi": "教育技術改變傳統學習方法。",
+    "category": "intermediate"
+  },
+  {
+    "word": "television",
+    "phonetic": "ˈtelɪvɪʒn",
+    "pos": "n.",
+    "translation": "電視、電視機",
+    "sentenceEng": "Educational television programs supplement classroom learning.",
+    "sentenceChi": "教育電視節目補充課堂學習。",
+    "category": "intermediate"
+  },
+  {
+    "word": "tell",
+    "phonetic": "tel",
+    "pos": "v.",
+    "translation": "告訴、說",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "ten",
+    "phonetic": "ten",
+    "pos": "num.",
+    "translation": "十、十個",
+    "sentenceEng": "The course lasts ten weeks.",
+    "sentenceChi": "課程持續十週。",
+    "category": "intermediate"
+  },
+  {
+    "word": "term",
+    "phonetic": "tɜːrm",
+    "pos": "n.",
+    "translation": "學期、術語",
+    "sentenceEng": "Spring term focuses on practical applications.",
+    "sentenceChi": "春季學期專注於實際應用。",
+    "category": "intermediate"
+  },
+  {
+    "word": "test",
+    "phonetic": "test",
+    "pos": "n./v.",
+    "translation": "測試、考試",
+    "sentenceEng": "Regular tests assess student understanding.",
+    "sentenceChi": "定期測試評估學生理解程度。",
+    "category": "intermediate"
+  },
+  {
+    "word": "text",
+    "phonetic": "tekst",
+    "pos": "n.",
+    "translation": "文本、教科書",
+    "sentenceEng": "Digital texts provide interactive learning experiences.",
+    "sentenceChi": "數位文本提供互動學習體驗。",
+    "category": "intermediate"
+  },
+  {
+    "word": "than",
+    "phonetic": "ðæn",
+    "pos": "conj.",
+    "translation": "比、超過",
+    "sentenceEng": "Practice matters more than natural talent.",
+    "sentenceChi": "練習比天賦更重要。",
+    "category": "intermediate"
+  },
+  {
+    "word": "that",
+    "phonetic": "ðæt",
+    "pos": "det./pron.",
+    "translation": "那個、那",
+    "sentenceEng": "That method works for most students.",
+    "sentenceChi": "那種方法對大多數學生有效。",
+    "category": "intermediate"
+  },
+  {
+    "word": "the",
+    "phonetic": "ðə",
+    "pos": "art.",
+    "translation": "定冠詞",
+    "sentenceEng": "The education system serves all children.",
+    "sentenceChi": "教育系統為所有兒童服務。",
+    "category": "intermediate"
+  },
+  {
+    "word": "their",
+    "phonetic": "ðer",
+    "pos": "det.",
+    "translation": "他們的",
+    "sentenceEng": "Students improve their skills through practice.",
+    "sentenceChi": "學生通過練習提高技能。",
+    "category": "intermediate"
+  },
+  {
+    "word": "them",
+    "phonetic": "ðem",
+    "pos": "pron.",
+    "translation": "他們、她們",
+    "sentenceEng": "Teachers encourage them to ask questions.",
+    "sentenceChi": "老師鼓勵他們提問。",
+    "category": "intermediate"
+  },
+  {
+    "word": "theory",
+    "phonetic": "ˈθiːəri",
+    "pos": "n.",
+    "translation": "理論、學說",
+    "sentenceEng": "Learning theories guide effective teaching practices.",
+    "sentenceChi": "學習理論指導有效的教學實踐。",
+    "category": "intermediate"
+  },
+  {
+    "word": "these",
+    "phonetic": "ðiːz",
+    "pos": "det./pron.",
+    "translation": "這些",
+    "sentenceEng": "These skills will benefit future careers.",
+    "sentenceChi": "這些技能將有益於未來職業。",
+    "category": "intermediate"
+  },
+  {
+    "word": "under",
+    "phonetic": "ˈʌndər",
+    "pos": "prep./adv.",
+    "translation": "在...下面、低於",
+    "sentenceEng": "Students work under teacher supervision.",
+    "sentenceChi": "學生在老師監督下工作。",
+    "category": "intermediate"
+  },
+  {
+    "word": "union",
+    "phonetic": "ˈjuːnjən",
+    "pos": "n.",
+    "translation": "聯盟、工會",
+    "sentenceEng": "Teacher unions advocate for education funding.",
+    "sentenceChi": "教師工會為教育資金倡議。",
+    "category": "intermediate"
+  },
+  {
+    "word": "unit",
+    "phonetic": "ˈjuːnɪt",
+    "pos": "n.",
+    "translation": "單位、單元",
+    "sentenceEng": "Each curriculum unit builds on previous knowledge.",
+    "sentenceChi": "每個課程單元都建立在先前知識之上。",
+    "category": "intermediate"
+  },
+  {
+    "word": "unite",
+    "phonetic": "juˈnaɪt",
+    "pos": "v.",
+    "translation": "聯合、團結",
+    "sentenceEng": "Common goals unite students and teachers.",
+    "sentenceChi": "共同目標團結學生和老師。",
+    "category": "intermediate"
+  },
+  {
+    "word": "university",
+    "phonetic": "ˌjuːnɪˈvɜːrsəti",
+    "pos": "n.",
+    "translation": "大學",
+    "sentenceEng": "Universities provide advanced education and research opportunities.",
+    "sentenceChi": "大學提供高等教育和研究機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "unless",
+    "phonetic": "ənˈles",
+    "pos": "conj.",
+    "translation": "除非、如果不",
+    "sentenceEng": "Students cannot succeed unless they study regularly.",
+    "sentenceChi": "學生除非定期學習否則無法成功。",
+    "category": "intermediate"
+  },
+  {
+    "word": "until",
+    "phonetic": "ənˈtɪl",
+    "pos": "prep./conj.",
+    "translation": "直到、到...為止",
+    "sentenceEng": "Study until you master the material.",
+    "sentenceChi": "學習直到你掌握材料。",
+    "category": "intermediate"
+  },
+  {
+    "word": "upon",
+    "phonetic": "əˈpɑːn",
+    "pos": "prep.",
+    "translation": "在...上、基於",
+    "sentenceEng": "Success depends upon consistent effort.",
+    "sentenceChi": "成功取決於持續努力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "urban",
+    "phonetic": "ˈɜːrbən",
+    "pos": "adj.",
+    "translation": "城市的、都市的",
+    "sentenceEng": "Urban schools face unique challenges.",
+    "sentenceChi": "城市學校面臨獨特挑戰。",
+    "category": "intermediate"
+  },
+  {
+    "word": "use",
+    "phonetic": "juːz",
+    "pos": "v./n.",
+    "translation": "使用、用途",
+    "sentenceEng": "Effective teachers use diverse teaching methods.",
+    "sentenceChi": "有效的教師使用多樣化的教學方法。",
+    "category": "intermediate"
+  },
+  {
+    "word": "used",
+    "phonetic": "juːzd",
+    "pos": "adj.",
+    "translation": "習慣的、二手的",
+    "sentenceEng": "Students become used to digital learning tools.",
+    "sentenceChi": "學生習慣了數位學習工具。",
+    "category": "intermediate"
+  },
+  {
+    "word": "user",
+    "phonetic": "ˈjuːzər",
+    "pos": "n.",
+    "translation": "使用者、用戶",
+    "sentenceEng": "Library users access resources online.",
+    "sentenceChi": "圖書館使用者在線訪問資源。",
+    "category": "intermediate"
+  },
+  {
+    "word": "usual",
+    "phonetic": "ˈjuːʒuəl",
+    "pos": "adj.",
+    "translation": "通常的、平常的",
+    "sentenceEng": "Students follow their usual study routine.",
+    "sentenceChi": "學生遵循通常的學習例行程序。",
+    "category": "intermediate"
+  },
+  {
+    "word": "value",
+    "phonetic": "ˈvæljuː",
+    "pos": "n./v.",
+    "translation": "價值、重視",
+    "sentenceEng": "Education has immense value for personal development.",
+    "sentenceChi": "教育對個人發展有巨大價值。",
+    "category": "intermediate"
+  },
+  {
+    "word": "variety",
+    "phonetic": "vəˈraɪəti",
+    "pos": "n.",
+    "translation": "多樣性、品種",
+    "sentenceEng": "Curriculum offers a variety of subjects.",
+    "sentenceChi": "課程提供多樣化的科目。",
+    "category": "intermediate"
+  },
+  {
+    "word": "various",
+    "phonetic": "ˈveriəs",
+    "pos": "adj.",
+    "translation": "各種各樣的、不同的",
+    "sentenceEng": "Various learning styles require different teaching approaches.",
+    "sentenceChi": "各種學習風格需要不同的教學方法。",
+    "category": "intermediate"
+  },
+  {
+    "word": "vehicle",
+    "phonetic": "ˈviːəkl",
+    "pos": "n.",
+    "translation": "車輛、工具",
+    "sentenceEng": "School vehicles transport students safely.",
+    "sentenceChi": "學校車輛安全運送學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "version",
+    "phonetic": "ˈvɜːrʒn",
+    "pos": "n.",
+    "translation": "版本、說法",
+    "sentenceEng": "Digital versions of textbooks cost less.",
+    "sentenceChi": "數位版教科書成本較低。",
+    "category": "intermediate"
+  },
+  {
+    "word": "video",
+    "phonetic": "ˈvɪdioʊ",
+    "pos": "n.",
+    "translation": "視頻、錄像",
+    "sentenceEng": "Educational videos enhance understanding.",
+    "sentenceChi": "教育視頻增強理解。",
+    "category": "intermediate"
+  },
+  {
+    "word": "view",
+    "phonetic": "vjuː",
+    "pos": "n./v.",
+    "translation": "觀點、看待",
+    "sentenceEng": "Students develop their own views through critical thinking.",
+    "sentenceChi": "學生通過批判性思考發展自己的觀點。",
+    "category": "intermediate"
+  },
+  {
+    "word": "wall",
+    "phonetic": "wɔːl",
+    "pos": "n.",
+    "translation": "牆、圍牆",
+    "sentenceEng": "Classroom walls display student artwork.",
+    "sentenceChi": "教室牆壁展示學生藝術作品。",
+    "category": "intermediate"
+  },
+  {
+    "word": "want",
+    "phonetic": "wɑːnt",
+    "pos": "v./n.",
+    "translation": "想要、需要",
+    "sentenceEng": "Students want meaningful learning experiences.",
+    "sentenceChi": "學生想要有意義的學習經驗。",
+    "category": "intermediate"
+  },
+  {
+    "word": "war",
+    "phonetic": "wɔːr",
+    "pos": "n.",
+    "translation": "戰爭",
+    "sentenceEng": "History lessons examine causes of war.",
+    "sentenceChi": "歷史課檢查戰爭原因。",
+    "category": "intermediate"
+  },
+  {
+    "word": "warm",
+    "phonetic": "wɔːrm",
+    "pos": "adj./v.",
+    "translation": "溫暖的、使溫暖",
+    "sentenceEng": "Warm classrooms create comfortable learning environments.",
+    "sentenceChi": "溫暖的教室創造舒適的學習環境。",
+    "category": "intermediate"
+  },
+  {
+    "word": "watch",
+    "phonetic": "wɑːtʃ",
+    "pos": "v./n.",
+    "translation": "觀看、手錶",
+    "sentenceEng": "Students watch educational documentaries.",
+    "sentenceChi": "學生觀看教育紀錄片。",
+    "category": "intermediate"
+  },
+  {
+    "word": "wave",
+    "phonetic": "weɪv",
+    "pos": "n./v.",
+    "translation": "波浪、揮手",
+    "sentenceEng": "",
+    "sentenceChi": "",
+    "category": "intermediate"
+  },
+  {
+    "word": "way",
+    "phonetic": "weɪ",
+    "pos": "n.",
+    "translation": "方法、道路",
+    "sentenceEng": "There are many ways to approach learning challenges.",
+    "sentenceChi": "有許多方法來應對學習挑戰。",
+    "category": "intermediate"
+  },
+  {
+    "word": "we",
+    "phonetic": "wiː",
+    "pos": "pron.",
+    "translation": "我們",
+    "sentenceEng": "We learn better when working together.",
+    "sentenceChi": "我們一起工作時學得更好。",
+    "category": "intermediate"
+  },
+  {
+    "word": "wear",
+    "phonetic": "wer",
+    "pos": "v.",
+    "translation": "穿、戴",
+    "sentenceEng": "Students wear uniforms with pride.",
+    "sentenceChi": "學生自豪地穿校服。",
+    "category": "intermediate"
+  },
+  {
+    "word": "weather",
+    "phonetic": "ˈweðər",
+    "pos": "n.",
+    "translation": "天氣、氣候",
+    "sentenceEng": "Good weather encourages outdoor classes.",
+    "sentenceChi": "好天氣鼓勵戶外課程。",
+    "category": "intermediate"
+  },
+  {
+    "word": "week",
+    "phonetic": "wiːk",
+    "pos": "n.",
+    "translation": "週、星期",
+    "sentenceEng": "Students attend classes five days per week.",
+    "sentenceChi": "學生每週上課五天。",
+    "category": "intermediate"
+  },
+  {
+    "word": "weight",
+    "phonetic": "weɪt",
+    "pos": "n.",
+    "translation": "重量、重要性",
+    "sentenceEng": "Teachers give equal weight to all assignments.",
+    "sentenceChi": "老師給所有作業同等重要性。",
+    "category": "intermediate"
+  },
+  {
+    "word": "welcome",
+    "phonetic": "ˈwelkəm",
+    "pos": "v./adj./n.",
+    "translation": "歡迎、受歡迎的",
+    "sentenceEng": "Schools welcome students from all backgrounds.",
+    "sentenceChi": "學校歡迎來自各種背景的學生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "west",
+    "phonetic": "west",
+    "pos": "n./adj.",
+    "translation": "西方、西部的",
+    "sentenceEng": "The west wing houses the library.",
+    "sentenceChi": "西翼設有圖書館。",
+    "category": "intermediate"
+  },
+  {
+    "word": "what",
+    "phonetic": "wʌt",
+    "pos": "pron./det.",
+    "translation": "什麼、哪個",
+    "sentenceEng": "What students learn shapes their future.",
+    "sentenceChi": "學生學習的內容塑造他們的未來。",
+    "category": "intermediate"
+  },
+  {
+    "word": "when",
+    "phonetic": "wen",
+    "pos": "adv./conj.",
+    "translation": "什麼時候、當",
+    "sentenceEng": "Learning happens when students engage actively.",
+    "sentenceChi": "學生積極參與時學習就會發生。",
+    "category": "intermediate"
+  },
+  {
+    "word": "where",
+    "phonetic": "wer",
+    "pos": "adv./conj.",
+    "translation": "哪裡、在哪裡",
+    "sentenceEng": "Classrooms are where knowledge transfers occur.",
+    "sentenceChi": "教室是知識轉移發生的地方。",
+    "category": "intermediate"
+  },
+  {
+    "word": "whether",
+    "phonetic": "ˈweðər",
+    "pos": "conj.",
+    "translation": "是否、無論",
+    "sentenceEng": "Success depends on whether students apply themselves.",
+    "sentenceChi": "成功取決於學生是否努力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "which",
+    "phonetic": "wɪtʃ",
+    "pos": "det./pron.",
+    "translation": "哪個、哪些",
+    "sentenceEng": "Students choose which subjects interest them most.",
+    "sentenceChi": "學生選擇最感興趣的科目。",
+    "category": "intermediate"
+  },
+  {
+    "word": "yard",
+    "phonetic": "jɑːrd",
+    "pos": "n.",
+    "translation": "院子、碼",
+    "sentenceEng": "School yards provide recreational spaces.",
+    "sentenceChi": "學校院子提供娛樂空間。",
+    "category": "intermediate"
+  },
+  {
+    "word": "year",
+    "phonetic": "jɪr",
+    "pos": "n.",
+    "translation": "年、年度",
+    "sentenceEng": "Each year brings new learning opportunities.",
+    "sentenceChi": "每年都帶來新的學習機會。",
+    "category": "intermediate"
+  },
+  {
+    "word": "yellow",
+    "phonetic": "ˈjeloʊ",
+    "pos": "adj./n.",
+    "translation": "黃色的、黃色",
+    "sentenceEng": "Yellow highlighters mark important text.",
+    "sentenceChi": "黃色螢光筆標記重要文字。",
+    "category": "intermediate"
+  },
+  {
+    "word": "you",
+    "phonetic": "juː",
+    "pos": "pron.",
+    "translation": "你、你們",
+    "sentenceEng": "You can achieve anything with dedication.",
+    "sentenceChi": "你可以通過奉獻實現任何事情。",
+    "category": "intermediate"
+  },
+  {
+    "word": "your",
+    "phonetic": "jʊr",
+    "pos": "det.",
+    "translation": "你的、你們的",
+    "sentenceEng": "Your education is an investment in the future.",
+    "sentenceChi": "你的教育是對未來的投資。",
+    "category": "intermediate"
+  },
+  {
+    "word": "yourself",
+    "phonetic": "jərˈself",
+    "pos": "pron.",
+    "translation": "你自己",
+    "sentenceEng": "Believe in yourself and your abilities.",
+    "sentenceChi": "相信你自己和你的能力。",
+    "category": "intermediate"
+  },
+  {
+    "word": "zone",
+    "phonetic": "zoʊn",
+    "pos": "n.",
+    "translation": "地區、區域",
+    "sentenceEng": "Creating a comfortable study zone enhances concentration.",
+    "sentenceChi": "創造舒適的學習區域增強專注力。",
+    "category": "intermediate"
+  }
+]

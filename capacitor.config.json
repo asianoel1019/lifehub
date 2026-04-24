@@ -1,0 +1,6 @@
+{
+  "appId": "com.asianoel.lifehub",
+  "appName": "LifeHub",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
