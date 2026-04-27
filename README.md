@@ -114,6 +114,3 @@ npm run dev
 # 建立正式生產版本
 npm run build
 ```
-
----
-*Powered by Deepmind Antigravity.*
