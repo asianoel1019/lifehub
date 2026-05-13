@@ -9,7 +9,8 @@ export default function Welcome() {
 
   const handleEnter = () => {
     setHasSeenWelcome();
-    navigate('/');
+    // 使用 replace: true，這樣在首頁按返回鍵時會直接退出 App，而不會回到歡迎畫面
+    navigate('/', { replace: true });
   };
 
   return (

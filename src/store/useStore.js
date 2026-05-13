@@ -325,10 +325,36 @@ export const useStore = create(
       parkingSettings: { theme: 'forest' },
       setParkingSettings: (settings) => set((state) => ({
         parkingSettings: { ...state.parkingSettings, ...settings }
+      })),
+
+      // Where Am I App
+      whereAmISettings: { 
+        theme: 'forest'
+      },
+      whereAmILocations: [], // { id, name, lat, lng, streetViewUrl, timestamp }
+      setWhereAmISettings: (settings) => set((state) => ({
+        whereAmISettings: { ...state.whereAmISettings, ...settings }
+      })),
+      saveWhereAmILocation: (location) => set((state) => {
+        const newLocations = [
+          { id: Date.now().toString(), ...location },
+          ...state.whereAmILocations
+        ].slice(0, 10); // Keep max 10
+        return { whereAmILocations: newLocations };
+      }),
+      deleteWhereAmILocation: (id) => set((state) => ({
+        whereAmILocations: state.whereAmILocations.filter(l => l.id !== id)
+      })),
+      renameWhereAmILocation: (id, name) => set((state) => ({
+        whereAmILocations: state.whereAmILocations.map(l => l.id === id ? { ...l, name } : l)
       }))
     }),
     {
-      name: 'android-pwa-storage', 
+      name: 'android-pwa-storage',
+      partialize: (state) => {
+        const { hasSeenWelcome, ...rest } = state;
+        return rest;
+      },
     }
   )
 );

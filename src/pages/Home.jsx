@@ -194,6 +194,7 @@ export default function Home() {
     { id: 'exchange', name: '極簡匯率', icon: DollarSign, bgColor: '#ecfccb', iconColor: '#65a30d', rotate: 2, route: '/exchange', active: true },
     { id: 'parking', name: '停車場在哪', icon: MapPin, bgColor: '#dbeafe', iconColor: '#2563eb', rotate: -1, route: '/parking', active: true },
     { id: 'movie', name: '電影院', icon: Film, bgColor: '#fee2e2', iconColor: '#ef4444', rotate: 2, route: '/movie', active: true },
+    { id: 'whereami', name: '我在哪', icon: MapPin, bgColor: '#ffedd5', iconColor: '#f97316', rotate: -2, route: '/whereami', active: true },
   ];
 
   const sortedBaseApps = [...baseApps].sort((a, b) => {

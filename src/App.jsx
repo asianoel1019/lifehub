@@ -21,11 +21,12 @@ import AnswerBookApp from './pages/AnswerBookApp';
 import ExchangeApp from './pages/ExchangeApp';
 import ParkingApp from './pages/ParkingApp';
 import MovieApp from './pages/MovieApp';
+import WhereAmIApp from './pages/WhereAmIApp';
 import AppLockScreen from './components/AppLockScreen';
 
 function RequireWelcome({ children }) {
   const hasSeenWelcome = useStore(state => state.hasSeenWelcome);
-  if (!hasSeenWelcome) return <Navigate to="/welcome" />;
+  if (!hasSeenWelcome) return <Navigate to="/welcome" replace />;
   return children;
 }
 
@@ -42,6 +43,11 @@ function RequireAppLock({ children }) {
 }
 
 function App() {
+  React.useEffect(() => {
+    // 每次重新進入 App 時，強制重置歡迎畫面狀態
+    useStore.setState({ hasSeenWelcome: false });
+  }, []);
+
   return (
     <div className="app-container">
       <BrowserRouter>
@@ -75,6 +81,7 @@ function App() {
             <Route path="/exchange" element={<RequireWelcome><ExchangeApp /></RequireWelcome>} />
             <Route path="/parking" element={<RequireWelcome><ParkingApp /></RequireWelcome>} />
             <Route path="/movie" element={<RequireWelcome><MovieApp /></RequireWelcome>} />
+            <Route path="/whereami" element={<RequireWelcome><WhereAmIApp /></RequireWelcome>} />
           </Routes>
         </RequireAppLock>
       </BrowserRouter>
