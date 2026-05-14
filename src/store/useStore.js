@@ -347,7 +347,27 @@ export const useStore = create(
       })),
       renameWhereAmILocation: (id, name) => set((state) => ({
         whereAmILocations: state.whereAmILocations.map(l => l.id === id ? { ...l, name } : l)
-      }))
+      })),
+
+      // === Sub-App: Business Card (名片) ===
+      businessCards: [], // { id, image, parsedData: { company, name, title, mobile, phone, email, address }, timestamp, slotIndex }
+      businessCardSettings: { theme: 'forest' },
+      
+      addBusinessCard: (card) => set((state) => ({
+        businessCards: [
+          { id: Date.now().toString(), timestamp: new Date().toISOString(), ...card },
+          ...state.businessCards
+        ]
+      })),
+      updateBusinessCard: (id, updated) => set((state) => ({
+        businessCards: state.businessCards.map(c => c.id === id ? { ...c, ...updated } : c)
+      })),
+      deleteBusinessCard: (id) => set((state) => ({
+        businessCards: state.businessCards.filter(c => c.id !== id)
+      })),
+      setBusinessCardSettings: (settings) => set((state) => ({
+        businessCardSettings: { ...state.businessCardSettings, ...settings }
+      })),
     }),
     {
       name: 'android-pwa-storage',

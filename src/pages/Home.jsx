@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useStore } from '../store/useStore';
-import { BookOpen, Fuel, CreditCard, Lock, Download, Upload, Dumbbell, Bike, TrainFront, MoreVertical, Unlock, CalendarDays, LayoutGrid, Eye, EyeOff, X, ChevronUp, ChevronDown, CheckSquare, RotateCcw, Book, Scale, TrendingUp, DollarSign, MapPin, Film } from 'lucide-react';
+import { BookOpen, Fuel, CreditCard, Lock, Download, Upload, Dumbbell, Bike, TrainFront, MoreVertical, Unlock, CalendarDays, LayoutGrid, Eye, EyeOff, X, ChevronUp, ChevronDown, CheckSquare, RotateCcw, Book, Scale, TrendingUp, DollarSign, MapPin, Film, Contact } from 'lucide-react';
 
 export default function Home() {
   const navigate = useNavigate();
@@ -195,6 +195,7 @@ export default function Home() {
     { id: 'parking', name: '停車場在哪', icon: MapPin, bgColor: '#dbeafe', iconColor: '#2563eb', rotate: -1, route: '/parking', active: true },
     { id: 'movie', name: '電影院', icon: Film, bgColor: '#fee2e2', iconColor: '#ef4444', rotate: 2, route: '/movie', active: true },
     { id: 'whereami', name: '我在哪', icon: MapPin, bgColor: '#ffedd5', iconColor: '#f97316', rotate: -2, route: '/whereami', active: true },
+    { id: 'businesscard', name: '名片', icon: Contact, bgColor: '#f1f5f9', iconColor: '#64748b', rotate: 1, route: '/businesscard', active: true },
   ];
 
   const sortedBaseApps = [...baseApps].sort((a, b) => {
