@@ -180,21 +180,10 @@ export default function BusinessCardApp() {
 
   const processImage = async (dataUrl) => {
     setIsProcessing(true);
-    setProcessingStep('初始化辨識引擎...');
     
     try {
-      // Use chi_tra for Traditional Chinese
-      const { data: { text } } = await Tesseract.recognize(dataUrl, 'chi_tra+eng', {
-        logger: m => {
-          if (m.status === 'recognizing text') {
-            setProcessingStep(`正在辨識: ${Math.round(m.progress * 100)}%`);
-          } else if (m.status === 'loading tesseract core') {
-            setProcessingStep('載入引擎核心...');
-          } else if (m.status === 'loading language traineddata') {
-            setProcessingStep('載入中文語言包...');
-          }
-        }
-      });
+      const worker = await initWorker();
+      const { data: { text } } = await worker.recognize(dataUrl);
       
       setProcessingStep('正在解析資訊...');
       const parsed = parseBusinessCardText(text);
