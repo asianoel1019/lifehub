@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 BUILD_APK.md
-README.md
 capacitor.config.json
 docs
 scratch
