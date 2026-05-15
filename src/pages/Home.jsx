@@ -2,7 +2,10 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useStore } from '../store/useStore';
-import { BookOpen, Fuel, CreditCard, Lock, Download, Upload, Dumbbell, Bike, TrainFront, MoreVertical, Unlock, CalendarDays, LayoutGrid, Eye, EyeOff, X, ChevronUp, ChevronDown, CheckSquare, RotateCcw, Book, Scale, TrendingUp, DollarSign, MapPin, Film, Contact } from 'lucide-react';
+import { Capacitor } from '@capacitor/core';
+import { Filesystem, Directory, Encoding } from '@capacitor/filesystem';
+import { Share } from '@capacitor/share';
+import { BookOpen, Fuel, CreditCard, Lock, Download, Upload, Dumbbell, Bike, TrainFront, MoreVertical, Unlock, CalendarDays, LayoutGrid, Eye, EyeOff, X, ChevronUp, ChevronDown, CheckSquare, RotateCcw, Book, Scale, TrendingUp, DollarSign, MapPin, Film, Contact, Key } from 'lucide-react';
 
 export default function Home() {
   const navigate = useNavigate();
@@ -12,6 +15,11 @@ export default function Home() {
   const toggleAppVisibility = useStore(state => state.toggleAppVisibility);
   const appOrder = useStore(state => state.appOrder);
   const setAppOrder = useStore(state => state.setAppOrder);
+
+  // Password App Data
+  const passwordCategories = useStore(state => state.passwordCategories) || [];
+  const passwordEntries = useStore(state => state.passwordEntries) || [];
+  const updatePasswordEntry = useStore(state => state.updatePasswordEntry);
   
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [showPinModal, setShowPinModal] = useState(false);
@@ -21,7 +29,77 @@ export default function Home() {
   const [showImportModal, setShowImportModal] = useState(false);
   const [pendingImportData, setPendingImportData] = useState(null);
 
-  const handleExport = () => {
+  // Subscription Expiration
+  const [showSubNotification, setShowSubNotification] = useState(false);
+  const [expiringSubs, setExpiringSubs] = useState([]);
+  const [selectedSubToRenew, setSelectedSubToRenew] = useState(null);
+
+  React.useEffect(() => {
+    // Check for expiring subscriptions on load
+    const subCat = passwordCategories.find(c => c.name === '訂閱');
+    if (subCat) {
+      const today = new Date();
+      const todayStr = today.toISOString().split('T')[0];
+      const nextWeek = new Date();
+      nextWeek.setDate(today.getDate() + 7);
+
+      const expiring = passwordEntries.filter(entry => {
+        if (entry.categoryId !== subCat.id || !entry.expireDate) return false;
+        // 忽略已經設定「不續了」且到期日還沒改的紀錄
+        if (entry.autoRenewDismissed === entry.expireDate) return false;
+        
+        const expDate = new Date(entry.expireDate);
+        return expDate >= today && expDate <= nextWeek;
+      });
+
+      const lastAlertDate = localStorage.getItem('password-alert-date');
+
+      if (expiring.length > 0 && lastAlertDate !== todayStr) {
+        setExpiringSubs(expiring);
+        setShowSubNotification(true);
+      }
+    }
+  }, [passwordCategories, passwordEntries]);
+
+  const handleNotRenew = (sub) => {
+    updatePasswordEntry(sub.id, { autoRenewDismissed: sub.expireDate });
+    const newSubs = expiringSubs.filter(s => s.id !== sub.id);
+    setExpiringSubs(newSubs);
+    if (newSubs.length === 0) {
+      setShowSubNotification(false);
+      localStorage.setItem('password-alert-date', new Date().toISOString().split('T')[0]);
+    }
+  };
+
+  const handleRenew = (sub) => {
+    setSelectedSubToRenew(sub.id);
+  };
+
+  const handleRenewWithDuration = (sub, duration) => {
+    const today = new Date();
+    const currentExp = new Date(sub.expireDate);
+    // 如果到期日已經過了，就從今天開始算；否則從到期日往後加
+    const startDate = currentExp > today ? currentExp : today;
+    
+    const newDate = new Date(startDate);
+    if (duration === 'month') newDate.setMonth(newDate.getMonth() + 1);
+    else if (duration === 'quarter') newDate.setMonth(newDate.getMonth() + 3);
+    else if (duration === 'year') newDate.setFullYear(newDate.getFullYear() + 1);
+    
+    const newDateStr = newDate.toISOString().split('T')[0];
+    updatePasswordEntry(sub.id, { expireDate: newDateStr, autoRenewDismissed: null });
+    
+    localStorage.setItem('password-alert-date', new Date().toISOString().split('T')[0]);
+    navigate('/password', { state: { editEntryId: sub.id } });
+    setSelectedSubToRenew(null);
+  };
+
+  const handleCloseSubNotification = () => {
+    setShowSubNotification(false);
+    localStorage.setItem('password-alert-date', new Date().toISOString().split('T')[0]);
+  };
+
+  const handleExport = async () => {
     try {
       const rawData = localStorage.getItem('android-pwa-storage');
       if (!rawData) {
@@ -32,19 +110,38 @@ export default function Home() {
       const parsedData = JSON.parse(rawData);
       // 使用 2格縮排 來輸出整齊易讀的 JSON
       const formattedJson = JSON.stringify(parsedData, null, 2);
-      
-      const blob = new Blob([formattedJson], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `smart-hub-backup-${new Date().toISOString().slice(0,10)}.json`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
+      const fileName = `smart-hub-backup-${new Date().toISOString().slice(0,10)}.json`;
+
+      if (Capacitor.isNativePlatform()) {
+        // Native Export (Android/iOS)
+        const result = await Filesystem.writeFile({
+          path: fileName,
+          data: formattedJson,
+          directory: Directory.Cache,
+          encoding: Encoding.UTF8
+        });
+
+        await Share.share({
+          title: '匯出備份資料',
+          text: 'LifeHub 備份檔案',
+          url: result.uri,
+          dialogTitle: '儲存或分享備份檔案'
+        });
+      } else {
+        // Web Export (PWA/Browser)
+        const blob = new Blob([formattedJson], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }
     } catch (e) {
       console.error('Export failed', e);
-      alert('匯出失敗');
+      alert('匯出失敗: ' + e.message);
     }
   };
 
@@ -196,6 +293,7 @@ export default function Home() {
     { id: 'movie', name: '電影院', icon: Film, bgColor: '#fee2e2', iconColor: '#ef4444', rotate: 2, route: '/movie', active: true },
     { id: 'whereami', name: '我在哪', icon: MapPin, bgColor: '#ffedd5', iconColor: '#f97316', rotate: -2, route: '/whereami', active: true },
     { id: 'businesscard', name: '名片', icon: Contact, bgColor: '#f1f5f9', iconColor: '#64748b', rotate: 1, route: '/businesscard', active: true },
+    { id: 'password', name: '我的密碼', icon: Key, bgColor: '#f3e8ff', iconColor: '#9333ea', rotate: 2, route: '/password', active: true },
   ];
 
   const sortedBaseApps = [...baseApps].sort((a, b) => {
@@ -481,6 +579,53 @@ export default function Home() {
               onClick={() => { setShowImportModal(false); setPendingImportData(null); }}
               style={{ width: '100%', padding: '12px', background: '#f1f5f9', color: '#475569', border: 'none', borderRadius: '8px', cursor: 'pointer', fontWeight: 'bold' }}
             >取消</button>
+          </div>
+        </div>
+      )}
+
+      {/* Subscription Expiration Notification Modal */}
+      {showSubNotification && (
+        <div style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.5)', zIndex: 9999, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+          <div style={{ background: 'white', padding: '24px', borderRadius: '16px', width: '90%', maxWidth: '340px', display: 'flex', flexDirection: 'column', gap: '16px', boxShadow: '0 8px 32px rgba(0,0,0,0.2)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#f59e0b' }}>
+                <Lock size={24} />
+                <h3 style={{ margin: 0, fontSize: '18px', fontWeight: 'bold' }}>訂閱即將到期通知</h3>
+              </div>
+              <button onClick={handleCloseSubNotification} style={{ background: 'transparent', border: 'none', cursor: 'pointer', color: '#64748b' }}>
+                <X size={20} />
+              </button>
+            </div>
+            <p style={{ margin: 0, fontSize: '14px', color: '#64748b' }}>您有以下服務將在 7 天內到期：</p>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', maxHeight: '300px', overflowY: 'auto' }}>
+              {expiringSubs.map(sub => (
+                <div key={sub.id} style={{ padding: '12px', background: '#f8fafc', borderRadius: '8px', border: '1px solid #cbd5e1', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <span style={{ fontWeight: 'bold', color: '#334155', fontSize: '16px' }}>{sub.title}</span>
+                    <span style={{ fontSize: '13px', color: '#ef4444', fontWeight: 'bold' }}>{sub.expireDate}</span>
+                  </div>
+                  <div style={{ display: 'flex', gap: '8px' }}>
+                    {selectedSubToRenew === sub.id ? (
+                      <div style={{ display: 'flex', gap: '4px', flex: 1 }}>
+                        <button onClick={() => handleRenewWithDuration(sub, 'month')} style={{ flex: 1, padding: '8px 4px', background: '#3b82f6', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontSize: '11px', fontWeight: 'bold' }}>+1月</button>
+                        <button onClick={() => handleRenewWithDuration(sub, 'quarter')} style={{ flex: 1, padding: '8px 4px', background: '#3b82f6', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontSize: '11px', fontWeight: 'bold' }}>+1季</button>
+                        <button onClick={() => handleRenewWithDuration(sub, 'year')} style={{ flex: 1, padding: '8px 4px', background: '#3b82f6', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontSize: '11px', fontWeight: 'bold' }}>+1年</button>
+                        <button onClick={() => setSelectedSubToRenew(null)} style={{ padding: '8px', background: '#f1f5f9', color: '#475569', border: 'none', borderRadius: '6px', cursor: 'pointer' }}><X size={14}/></button>
+                      </div>
+                    ) : (
+                      <>
+                        <button onClick={() => handleNotRenew(sub)} style={{ flex: 1, padding: '8px', background: '#f1f5f9', color: '#475569', border: 'none', borderRadius: '6px', cursor: 'pointer', fontSize: '13px', fontWeight: 'bold' }}>
+                          不續了
+                        </button>
+                        <button onClick={() => handleRenew(sub)} style={{ flex: 1, padding: '8px', background: '#3b82f6', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer', fontSize: '13px', fontWeight: 'bold' }}>
+                          已續費
+                        </button>
+                      </>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       )}

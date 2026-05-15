@@ -23,6 +23,7 @@ import ParkingApp from './pages/ParkingApp';
 import MovieApp from './pages/MovieApp';
 import WhereAmIApp from './pages/WhereAmIApp';
 import BusinessCardApp from './pages/BusinessCardApp';
+import PasswordApp from './pages/PasswordApp';
 import AppLockScreen from './components/AppLockScreen';
 
 function RequireWelcome({ children }) {
@@ -84,6 +85,7 @@ function App() {
             <Route path="/movie" element={<RequireWelcome><MovieApp /></RequireWelcome>} />
             <Route path="/whereami" element={<RequireWelcome><WhereAmIApp /></RequireWelcome>} />
             <Route path="/businesscard" element={<RequireWelcome><BusinessCardApp /></RequireWelcome>} />
+            <Route path="/password" element={<RequireWelcome><PasswordApp /></RequireWelcome>} />
           </Routes>
         </RequireAppLock>
       </BrowserRouter>

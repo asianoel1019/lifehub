@@ -368,6 +368,44 @@ export const useStore = create(
       setBusinessCardSettings: (settings) => set((state) => ({
         businessCardSettings: { ...state.businessCardSettings, ...settings }
       })),
+
+      // === Sub-App: Password App (我的密碼) ===
+      passwordKey: null,
+      passwordCategories: [
+        { id: '1', name: '工作' },
+        { id: '2', name: '私人' },
+        { id: '3', name: '社群' },
+        { id: '5', name: '金融' },
+        { id: '4', name: '訂閱' }
+      ],
+      passwordEntries: [],
+      passwordSettings: { theme: 'forest' },
+
+      setPasswordKey: (key) => set({ passwordKey: key }),
+      addPasswordCategory: (category) => set((state) => ({
+        passwordCategories: [...state.passwordCategories, { id: Date.now().toString(), ...category }]
+      })),
+      updatePasswordCategory: (id, updated) => set((state) => ({
+        passwordCategories: state.passwordCategories.map(c => c.id === id ? { ...c, ...updated } : c)
+      })),
+      deletePasswordCategory: (id) => set((state) => ({
+        passwordCategories: state.passwordCategories.filter(c => c.id !== id),
+        passwordEntries: state.passwordEntries.filter(e => e.categoryId !== id)
+      })),
+      addPasswordEntry: (entry) => set((state) => ({
+        passwordEntries: [...state.passwordEntries, { id: Date.now().toString(), timestamp: new Date().toISOString(), ...entry }]
+      })),
+      updatePasswordEntry: (id, updated) => set((state) => ({
+        passwordEntries: state.passwordEntries.map(e => e.id === id ? { ...e, ...updated } : e)
+      })),
+      deletePasswordEntry: (id) => set((state) => ({
+        passwordEntries: state.passwordEntries.filter(e => e.id !== id)
+      })),
+      setPasswordSettings: (settings) => set((state) => ({
+        passwordSettings: { ...state.passwordSettings, ...settings }
+      })),
+      setPasswordCategories: (categories) => set({ passwordCategories: categories }),
+      setPasswordEntries: (entries) => set({ passwordEntries: entries }),
     }),
     {
       name: 'android-pwa-storage',

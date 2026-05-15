@@ -37,8 +37,8 @@ export default function AppLockScreen({ onUnlock }) {
   return (
     <div style={{
       position: 'fixed', inset: 0, zIndex: 9999,
-      background: 'var(--bg-primary)', display: 'flex', flexDirection: 'column',
-      alignItems: 'center', justifyContent: 'center', color: '#f8fafc'
+      background: 'var(--bg-color)', display: 'flex', flexDirection: 'column',
+      alignItems: 'center', justifyContent: 'center', color: 'var(--text-primary)'
     }}>
       <div style={{ marginBottom: '40px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ padding: '20px', background: 'rgba(255,255,255,0.05)', borderRadius: '50%', marginBottom: '24px' }}>
@@ -60,7 +60,7 @@ export default function AppLockScreen({ onUnlock }) {
             width: '24px', height: '24px', borderRadius: '50%',
             background: inputPin.length > i ? 'var(--accent-color)' : 'rgba(255,255,255,0.1)',
             transition: 'background 0.2s',
-            boxShadow: inputPin.length > i ? '0 0 12px var(--accent-light)' : 'none'
+            boxShadow: inputPin.length > i ? '0 0 12px rgba(59, 130, 246, 0.5)' : 'none'
           }} />
         ))}
       </motion.div>
